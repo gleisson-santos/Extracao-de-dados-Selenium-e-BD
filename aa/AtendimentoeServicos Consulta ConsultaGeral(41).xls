@@ -1,0 +1,1855 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><!--[if gte mso 9]><xml><x:ExcelWorkbook><x:ExcelWorksheets><x:ExcelWorksheet><x:Name>SCI Web</x:Name><x:WorksheetOptions><x:DisplayGridlines/></x:WorksheetOptions></x:ExcelWorksheet></x:ExcelWorksheets></x:ExcelWorkbook></xml><![endif]--></head><body><table><thead><tr><th colspan="5">EMBASA - Empresa Baiana de Águas e Saneamento</th><th>10/03/2023 11:44:17</th></tr><tr><th colspan="2">Atendimento e Serviços > Consulta > Consulta Geral</th></tr><tr><th colspan="1">Filtro</th></tr></thead><tbody><tr><td>dataTipo</td><td>ENCERRAMENTO</td><td>data</td><td>21/01/2023 00:00:00</td><td>ordemServicoUnidadeAtualId</td><td>88880068</td></tr><tr><td>ordemServicoUnidadeAtualSubordinadas</td><td>false</td><td>solicitacaoLocalidadeId</td><td>700</td><td>exibirVinculadas</td><td>N</td></tr><tr><td>ordemServicoSituacao</td><td>[CONCLUIDA_EXECUTADA]</td><td></td><td></td><td></td><td></td></tr><tr><td colspan='6'></td></tr></tbody></table>
+
+
+	<table id="form-grid-grid" class="cc-table cc-table-main">
+<caption>
+						
+							<label id="form-grid-grid-exportBtn-exportarxls" title="Exportar resultado da consulta para Excel" class="cc-table-ui-icon"></label><label title="Alterar colunas visíveis na tabela" class="cc-table-ui-icon"></label>
+
+
+					
+							
+							
+								
+						
+						
+	
+	
+	
+
+						
+
+						</caption><thead>
+<tr>
+
+<th class="cc-table-header" scope="col"></th>
+<th class="cc-table-header " scope="col"><span title="Número da Solicitação de Serviço">SS</span></th>
+<th class="cc-table-header " scope="col"><span title="Número da Ordem de Serviço">OS</span></th>
+<th class="cc-table-header " scope="col"><span title="">Tipo</span></th>
+<th class="cc-table-header " scope="col"><span title="">Especificação</span></th>
+<th class="cc-table-header " scope="col"><span title="">Serviço</span></th>
+<th class="cc-table-header " scope="col"><span title="">Unid Atual (OS)</span></th>
+<th class="cc-table-header " scope="col"><span title="">Equipe</span></th>
+<th class="cc-table-header " scope="col"><span title="">Origem da SS</span></th>
+<th class="cc-table-header " scope="col"><span title="">Localidade</span></th>
+<th class="cc-table-header " scope="col"><span title="">Bairro</span></th>
+<th class="cc-table-header " scope="col"><span title="">Logradouro</span></th>
+<th class="cc-table-header " scope="col"><span title="">Ini do Serviço</span></th>
+<th class="cc-table-header " scope="col"><span title="">Fim do Serviço</span></th>
+<th class="cc-table-header " scope="col"><span title="">Encerramento</span></th>
+<th class="cc-table-header " scope="col"><span title="">Mot de Encerr da OS</span></th>
+<th class="cc-table-header " scope="col"><span title="Situação da Ordem de Serviço">Sit da OS</span></th>
+<th class="cc-table-header " scope="col"><span title="Quantidade de registros de insumos">Insumos</span></th>
+<th class="cc-table-header " scope="col"><span title="Funcionário que Encerrou a OS">Func. Encerrou OS</span></th>
+<th class="cc-table-header " scope="col"><span title="">SS Atendida</span></th>
+<th class="cc-table-header " scope="col"><span title="">Tipo de Operação</span></th>
+<th class="cc-table-header " scope="col"><span title="Data/Hora da última tramitação da OS">Data/Hora Última Tramitação da OS</span></th>
+</tr>
+</thead>
+<tfoot>
+
+</tfoot>
+<tbody>
+<tr>
+
+<td></td>
+<td><span title="979646562">979646562</span></td>
+<td><span title="1">1</span></td>
+<td><span title="37 - RECOMPOSICAO DE PAVIMENTO">37 - RECOMPOSICAO DE PAVIMENTO</span></td>
+<td><span title="2 - RECOMPOSICAO DE PAVIMENTO - ESGOTO">2 - RECOMPOSICAO DE PAVIMENTO - ESGOTO</span></td>
+<td><span title="85 - RECOMPOS PAVIM PASSEIO">85 - RECOMPOS PAVIM PASSEIO</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="320A - CELIO ROBERTO DE JESUS">320A - CELIO ROBERTO DE JESUS</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="1 - IPITANGA">1 - IPITANGA</span></td>
+<td><span title="401067 - RU MANOEL DE CASTRO">401067 - RU MANOEL DE CASTRO</span></td>
+<td><span class="">22/01/2023 13:28:00</span></td>
+<td><span class="">22/01/2023 13:51:00</span></td>
+<td><span class="">22/01/2023 13:55:48</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="207572 - SANDRO RAPHAEL SANTOS MOURA  ">207572 - SANDRO RAPHAEL SANTOS MOURA  </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Esgoto">Esgoto</span></td>
+<td><span class="">22/01/2023 13:41:46</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979700617">979700617</span></td>
+<td><span title="1">1</span></td>
+<td><span title="25 - MANUTENCAO DE ESGOTO">25 - MANUTENCAO DE ESGOTO</span></td>
+<td><span title="7 - INSPECAO TECNICA DE ESGOTO">7 - INSPECAO TECNICA DE ESGOTO</span></td>
+<td><span title="37 - VISITA">37 - VISITA</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="ENC-07 - REGINALDO DA SILVA">ENC-07 - REGINALDO DA SILVA</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="13 - ITINGA">13 - ITINGA</span></td>
+<td><span title="404910 - RU N SRA DE APARECIDA">404910 - RU N SRA DE APARECIDA</span></td>
+<td><span class="">20/01/2023 10:20:00</span></td>
+<td><span class="">20/01/2023 11:15:00</span></td>
+<td><span class="">21/01/2023 08:59:07</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="207572 - SANDRO RAPHAEL SANTOS MOURA  ">207572 - SANDRO RAPHAEL SANTOS MOURA  </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Esgoto">Esgoto</span></td>
+<td><span class="">18/01/2023 09:39:23</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979713673">979713673</span></td>
+<td><span title="1">1</span></td>
+<td><span title="25 - MANUTENCAO DE ESGOTO">25 - MANUTENCAO DE ESGOTO</span></td>
+<td><span title="7 - INSPECAO TECNICA DE ESGOTO">7 - INSPECAO TECNICA DE ESGOTO</span></td>
+<td><span title="37 - VISITA">37 - VISITA</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="ENC-07 - REGINALDO DA SILVA">ENC-07 - REGINALDO DA SILVA</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="13 - ITINGA">13 - ITINGA</span></td>
+<td><span title="440879 - RU ARSENIO F DOS SANTOS">440879 - RU ARSENIO F DOS SANTOS</span></td>
+<td><span class="">20/01/2023 09:20:00</span></td>
+<td><span class="">20/01/2023 10:15:00</span></td>
+<td><span class="">21/01/2023 08:50:41</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="207572 - SANDRO RAPHAEL SANTOS MOURA  ">207572 - SANDRO RAPHAEL SANTOS MOURA  </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Esgoto">Esgoto</span></td>
+<td><span class="">18/01/2023 13:03:24</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979757650">979757650</span></td>
+<td><span title="1">1</span></td>
+<td><span title="25 - MANUTENCAO DE ESGOTO">25 - MANUTENCAO DE ESGOTO</span></td>
+<td><span title="7 - INSPECAO TECNICA DE ESGOTO">7 - INSPECAO TECNICA DE ESGOTO</span></td>
+<td><span title="37 - VISITA">37 - VISITA</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="ENC-07 - REGINALDO DA SILVA">ENC-07 - REGINALDO DA SILVA</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="13 - ITINGA">13 - ITINGA</span></td>
+<td><span title="403124 - RU SAO CRISTOVAO">403124 - RU SAO CRISTOVAO</span></td>
+<td><span class="">21/01/2023 08:30:00</span></td>
+<td><span class="">21/01/2023 08:45:00</span></td>
+<td><span class="">21/01/2023 09:11:38</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="207572 - SANDRO RAPHAEL SANTOS MOURA  ">207572 - SANDRO RAPHAEL SANTOS MOURA  </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Esgoto">Esgoto</span></td>
+<td><span class="">19/01/2023 11:55:19</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979781645">979781645</span></td>
+<td><span title="1">1</span></td>
+<td><span title="37 - RECOMPOSICAO DE PAVIMENTO">37 - RECOMPOSICAO DE PAVIMENTO</span></td>
+<td><span title="1 - RECOMPOSICAO DE PAVIMENTO - AGUA">1 - RECOMPOSICAO DE PAVIMENTO - AGUA</span></td>
+<td><span title="85 - RECOMPOS PAVIM PASSEIO">85 - RECOMPOS PAVIM PASSEIO</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="320A - CELIO ROBERTO DE JESUS">320A - CELIO ROBERTO DE JESUS</span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="13 - ITINGA">13 - ITINGA</span></td>
+<td><span title="405429 - RU IRMA DULCE">405429 - RU IRMA DULCE</span></td>
+<td><span class="">21/01/2023 10:41:00</span></td>
+<td><span class="">21/01/2023 11:03:00</span></td>
+<td><span class="">21/01/2023 11:03:52</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="900032 - INTEGRACAO DIGITEAM          ">900032 - INTEGRACAO DIGITEAM          </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">20/01/2023 07:41:46</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979798121">979798121</span></td>
+<td><span title="1">1</span></td>
+<td><span title="37 - RECOMPOSICAO DE PAVIMENTO">37 - RECOMPOSICAO DE PAVIMENTO</span></td>
+<td><span title="1 - RECOMPOSICAO DE PAVIMENTO - AGUA">1 - RECOMPOSICAO DE PAVIMENTO - AGUA</span></td>
+<td><span title="160 - RECOMP PAV ASFALTICO">160 - RECOMP PAV ASFALTICO</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="ASF700 - JOSEVAL NATIVIDADE DE JESUS">ASF700 - JOSEVAL NATIVIDADE DE JESUS</span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="5 - PORTAO">5 - PORTAO</span></td>
+<td><span title="407200 - AV COSTA">407200 - AV COSTA</span></td>
+<td><span class="">21/01/2023 12:32:00</span></td>
+<td><span class="">21/01/2023 12:38:00</span></td>
+<td><span class="">21/01/2023 12:46:58</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="207572 - SANDRO RAPHAEL SANTOS MOURA  ">207572 - SANDRO RAPHAEL SANTOS MOURA  </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">20/01/2023 12:59:37</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979798458">979798458</span></td>
+<td><span title="1">1</span></td>
+<td><span title="37 - RECOMPOSICAO DE PAVIMENTO">37 - RECOMPOSICAO DE PAVIMENTO</span></td>
+<td><span title="1 - RECOMPOSICAO DE PAVIMENTO - AGUA">1 - RECOMPOSICAO DE PAVIMENTO - AGUA</span></td>
+<td><span title="85 - RECOMPOS PAVIM PASSEIO">85 - RECOMPOS PAVIM PASSEIO</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="320A - CELIO ROBERTO DE JESUS">320A - CELIO ROBERTO DE JESUS</span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="5 - PORTAO">5 - PORTAO</span></td>
+<td><span title="406565 - AV QUEIRA DEUS">406565 - AV QUEIRA DEUS</span></td>
+<td><span class="">21/01/2023 08:50:00</span></td>
+<td><span class="">21/01/2023 09:38:00</span></td>
+<td><span class="">21/01/2023 09:44:14</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="207572 - SANDRO RAPHAEL SANTOS MOURA  ">207572 - SANDRO RAPHAEL SANTOS MOURA  </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">20/01/2023 13:08:52</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979802783">979802783</span></td>
+<td><span title="1">1</span></td>
+<td><span title="37 - RECOMPOSICAO DE PAVIMENTO">37 - RECOMPOSICAO DE PAVIMENTO</span></td>
+<td><span title="2 - RECOMPOSICAO DE PAVIMENTO - ESGOTO">2 - RECOMPOSICAO DE PAVIMENTO - ESGOTO</span></td>
+<td><span title="160 - RECOMP PAV ASFALTICO">160 - RECOMP PAV ASFALTICO</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="ASF700 - JOSEVAL NATIVIDADE DE JESUS">ASF700 - JOSEVAL NATIVIDADE DE JESUS</span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="5 - PORTAO">5 - PORTAO</span></td>
+<td><span title="406565 - AV QUEIRA DEUS">406565 - AV QUEIRA DEUS</span></td>
+<td><span class="">21/01/2023 12:00:00</span></td>
+<td><span class="">21/01/2023 12:40:00</span></td>
+<td><span class="">21/01/2023 13:15:33</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="207572 - SANDRO RAPHAEL SANTOS MOURA  ">207572 - SANDRO RAPHAEL SANTOS MOURA  </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Esgoto">Esgoto</span></td>
+<td><span class="">20/01/2023 14:24:23</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979812791">979812791</span></td>
+<td><span title="1">1</span></td>
+<td><span title="57 - ANALISE ANORMALIDADE LEIT/CONS">57 - ANALISE ANORMALIDADE LEIT/CONS</span></td>
+<td><span title="2 - REVISAO DE LEITURA">2 - REVISAO DE LEITURA</span></td>
+<td><span title="114 - REVISAR LEITURA">114 - REVISAR LEITURA</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="132A - MARCOS CASSIO DE JESUS SILVA">132A - MARCOS CASSIO DE JESUS SILVA</span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="13 - ITINGA">13 - ITINGA</span></td>
+<td><span title="412760 - CAM 6">412760 - CAM 6</span></td>
+<td><span class="">21/01/2023 10:06:00</span></td>
+<td><span class="">21/01/2023 10:07:00</span></td>
+<td><span class="">21/01/2023 10:08:03</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="900032 - INTEGRACAO DIGITEAM          ">900032 - INTEGRACAO DIGITEAM          </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Comercial">Comercial</span></td>
+<td><span class="">20/01/2023 17:05:19</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979812792">979812792</span></td>
+<td><span title="1">1</span></td>
+<td><span title="57 - ANALISE ANORMALIDADE LEIT/CONS">57 - ANALISE ANORMALIDADE LEIT/CONS</span></td>
+<td><span title="2 - REVISAO DE LEITURA">2 - REVISAO DE LEITURA</span></td>
+<td><span title="114 - REVISAR LEITURA">114 - REVISAR LEITURA</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="132A - MARCOS CASSIO DE JESUS SILVA">132A - MARCOS CASSIO DE JESUS SILVA</span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="6 - VILA PRAIANA">6 - VILA PRAIANA</span></td>
+<td><span title="400184 - AV BRIG MARIO EPINGHAUS">400184 - AV BRIG MARIO EPINGHAUS</span></td>
+<td><span class="">21/01/2023 10:54:00</span></td>
+<td><span class="">21/01/2023 10:55:00</span></td>
+<td><span class="">21/01/2023 10:55:41</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="900032 - INTEGRACAO DIGITEAM          ">900032 - INTEGRACAO DIGITEAM          </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Comercial">Comercial</span></td>
+<td><span class="">20/01/2023 17:05:19</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979812979">979812979</span></td>
+<td><span title="1">1</span></td>
+<td><span title="57 - ANALISE ANORMALIDADE LEIT/CONS">57 - ANALISE ANORMALIDADE LEIT/CONS</span></td>
+<td><span title="2 - REVISAO DE LEITURA">2 - REVISAO DE LEITURA</span></td>
+<td><span title="114 - REVISAR LEITURA">114 - REVISAR LEITURA</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="132A - MARCOS CASSIO DE JESUS SILVA">132A - MARCOS CASSIO DE JESUS SILVA</span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="5 - PORTAO">5 - PORTAO</span></td>
+<td><span title="406638 - RU SANTO ANTONIO">406638 - RU SANTO ANTONIO</span></td>
+<td><span class="">21/01/2023 08:53:00</span></td>
+<td><span class="">21/01/2023 08:55:00</span></td>
+<td><span class="">21/01/2023 08:55:22</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="900032 - INTEGRACAO DIGITEAM          ">900032 - INTEGRACAO DIGITEAM          </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Comercial">Comercial</span></td>
+<td><span class="">20/01/2023 17:11:17</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979812980">979812980</span></td>
+<td><span title="1">1</span></td>
+<td><span title="57 - ANALISE ANORMALIDADE LEIT/CONS">57 - ANALISE ANORMALIDADE LEIT/CONS</span></td>
+<td><span title="2 - REVISAO DE LEITURA">2 - REVISAO DE LEITURA</span></td>
+<td><span title="114 - REVISAR LEITURA">114 - REVISAR LEITURA</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="132A - MARCOS CASSIO DE JESUS SILVA">132A - MARCOS CASSIO DE JESUS SILVA</span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="10 - CENTRO">10 - CENTRO</span></td>
+<td><span title="400206 - RU ROMUALDO DE BRITO">400206 - RU ROMUALDO DE BRITO</span></td>
+<td><span class="">21/01/2023 10:37:00</span></td>
+<td><span class="">21/01/2023 10:38:00</span></td>
+<td><span class="">21/01/2023 10:38:48</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="900032 - INTEGRACAO DIGITEAM          ">900032 - INTEGRACAO DIGITEAM          </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Comercial">Comercial</span></td>
+<td><span class="">20/01/2023 17:11:17</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979812981">979812981</span></td>
+<td><span title="1">1</span></td>
+<td><span title="57 - ANALISE ANORMALIDADE LEIT/CONS">57 - ANALISE ANORMALIDADE LEIT/CONS</span></td>
+<td><span title="2 - REVISAO DE LEITURA">2 - REVISAO DE LEITURA</span></td>
+<td><span title="114 - REVISAR LEITURA">114 - REVISAR LEITURA</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="132A - MARCOS CASSIO DE JESUS SILVA">132A - MARCOS CASSIO DE JESUS SILVA</span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="9 - PITANGUEIRAS">9 - PITANGUEIRAS</span></td>
+<td><span title="408169 - RU NOEMIA M PARANHOS">408169 - RU NOEMIA M PARANHOS</span></td>
+<td><span class="">21/01/2023 11:09:00</span></td>
+<td><span class="">21/01/2023 11:10:00</span></td>
+<td><span class="">21/01/2023 11:10:33</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="900032 - INTEGRACAO DIGITEAM          ">900032 - INTEGRACAO DIGITEAM          </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Comercial">Comercial</span></td>
+<td><span class="">20/01/2023 17:11:17</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979812982">979812982</span></td>
+<td><span title="1">1</span></td>
+<td><span title="57 - ANALISE ANORMALIDADE LEIT/CONS">57 - ANALISE ANORMALIDADE LEIT/CONS</span></td>
+<td><span title="2 - REVISAO DE LEITURA">2 - REVISAO DE LEITURA</span></td>
+<td><span title="114 - REVISAR LEITURA">114 - REVISAR LEITURA</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="132A - MARCOS CASSIO DE JESUS SILVA">132A - MARCOS CASSIO DE JESUS SILVA</span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="19 - JAMBEIRO">19 - JAMBEIRO</span></td>
+<td><span title="410066 - AV PROGRESSO">410066 - AV PROGRESSO</span></td>
+<td><span class="">21/01/2023 09:26:00</span></td>
+<td><span class="">21/01/2023 09:31:00</span></td>
+<td><span class="">21/01/2023 09:31:36</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="900032 - INTEGRACAO DIGITEAM          ">900032 - INTEGRACAO DIGITEAM          </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Comercial">Comercial</span></td>
+<td><span class="">20/01/2023 17:11:18</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979813233">979813233</span></td>
+<td><span title="1">1</span></td>
+<td><span title="25 - MANUTENCAO DE ESGOTO">25 - MANUTENCAO DE ESGOTO</span></td>
+<td><span title="4 - EXTRAVASAMENTO - RETORNO IMOVEL">4 - EXTRAVASAMENTO - RETORNO IMOVEL</span></td>
+<td><span title="440 - DES RAM PREDI ESG C/EQUIP">440 - DES RAM PREDI ESG C/EQUIP</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="307-E - AILTON DOS SANTOS MACHADO">307-E - AILTON DOS SANTOS MACHADO</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="13 - ITINGA">13 - ITINGA</span></td>
+<td><span title="90487 - RU SAO CRISTOVAO DE IPITANGA">90487 - RU SAO CRISTOVAO DE IPITANGA</span></td>
+<td><span class="">21/01/2023 13:56:00</span></td>
+<td><span class="">21/01/2023 13:59:00</span></td>
+<td><span class="">21/01/2023 14:00:45</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="900032 - INTEGRACAO DIGITEAM          ">900032 - INTEGRACAO DIGITEAM          </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Esgoto">Esgoto</span></td>
+<td><span class="">21/01/2023 07:47:25</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979813505">979813505</span></td>
+<td><span title="1">1</span></td>
+<td><span title="47 - VERIFICACAO DE PRESSAO">47 - VERIFICACAO DE PRESSAO</span></td>
+<td><span title="1 - VERIFICACAO DE PRESSAO">1 - VERIFICACAO DE PRESSAO</span></td>
+<td><span title="363 - VERIF BAIXA DE PRESSAO">363 - VERIF BAIXA DE PRESSAO</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title=""></span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="5 - PORTAO">5 - PORTAO</span></td>
+<td><span title="406565 - AV QUEIRA DEUS">406565 - AV QUEIRA DEUS</span></td>
+<td><span class="">22/01/2023 08:47:00</span></td>
+<td><span class="">22/01/2023 08:58:00</span></td>
+<td><span class="">22/01/2023 09:03:53</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="900032 - INTEGRACAO DIGITEAM          ">900032 - INTEGRACAO DIGITEAM          </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">22/01/2023 08:04:09</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979813565">979813565</span></td>
+<td><span title="1">1</span></td>
+<td><span title="43 - VAZAMENTO DE AGUA">43 - VAZAMENTO DE AGUA</span></td>
+<td><span title="2 - VAZAMENTO NO RAMAL">2 - VAZAMENTO NO RAMAL</span></td>
+<td><span title="290 - VAZAMENTO NO HIDROMETRO">290 - VAZAMENTO NO HIDROMETRO</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="218A - JILTON RENILTON DE MELO">218A - JILTON RENILTON DE MELO</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="11 - BURAQUINHO">11 - BURAQUINHO</span></td>
+<td><span title="408029 - RU ANA C B DIAS">408029 - RU ANA C B DIAS</span></td>
+<td><span class="">21/01/2023 09:05:00</span></td>
+<td><span class="">21/01/2023 09:09:00</span></td>
+<td><span class="">21/01/2023 09:10:25</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="1">1</span></td>
+<td><span title="900032 - INTEGRACAO DIGITEAM          ">900032 - INTEGRACAO DIGITEAM          </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">21/01/2023 07:47:07</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979815027">979815027</span></td>
+<td><span title="1">1</span></td>
+<td><span title="43 - VAZAMENTO DE AGUA">43 - VAZAMENTO DE AGUA</span></td>
+<td><span title="1 - VAZAMENTO NA REDE">1 - VAZAMENTO NA REDE</span></td>
+<td><span title="291 - VAZ RAMAL NA RUA COM PAVI">291 - VAZ RAMAL NA RUA COM PAVI</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="215-A - NARCISO CONCEICAO FRANCA">215-A - NARCISO CONCEICAO FRANCA</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="6 - VILA PRAIANA">6 - VILA PRAIANA</span></td>
+<td><span title="401954 - RU PORTO MAR">401954 - RU PORTO MAR</span></td>
+<td><span class="">21/01/2023 08:36:00</span></td>
+<td><span class="">21/01/2023 09:00:00</span></td>
+<td><span class="">21/01/2023 09:24:16</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="2">2</span></td>
+<td><span title="207572 - SANDRO RAPHAEL SANTOS MOURA  ">207572 - SANDRO RAPHAEL SANTOS MOURA  </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">21/01/2023 07:47:07</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979823218">979823218</span></td>
+<td><span title="1">1</span></td>
+<td><span title="43 - VAZAMENTO DE AGUA">43 - VAZAMENTO DE AGUA</span></td>
+<td><span title="3 - VAZAMENTO NO HIDROMETRO">3 - VAZAMENTO NO HIDROMETRO</span></td>
+<td><span title="292 - VAZ RAMAL NA RUA SEM PAVI">292 - VAZ RAMAL NA RUA SEM PAVI</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="218A - JILTON RENILTON DE MELO">218A - JILTON RENILTON DE MELO</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="2 - VILAS ATLANTICO">2 - VILAS ATLANTICO</span></td>
+<td><span title="408622 - AA PRAIA DE BERLINQUE">408622 - AA PRAIA DE BERLINQUE</span></td>
+<td><span class="">21/01/2023 09:32:00</span></td>
+<td><span class="">21/01/2023 09:36:00</span></td>
+<td><span class="">21/01/2023 09:36:36</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="1">1</span></td>
+<td><span title="900032 - INTEGRACAO DIGITEAM          ">900032 - INTEGRACAO DIGITEAM          </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">21/01/2023 07:47:07</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979823327">979823327</span></td>
+<td><span title="1">1</span></td>
+<td><span title="37 - RECOMPOSICAO DE PAVIMENTO">37 - RECOMPOSICAO DE PAVIMENTO</span></td>
+<td><span title="1 - RECOMPOSICAO DE PAVIMENTO - AGUA">1 - RECOMPOSICAO DE PAVIMENTO - AGUA</span></td>
+<td><span title="85 - RECOMPOS PAVIM PASSEIO">85 - RECOMPOS PAVIM PASSEIO</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="320A - CELIO ROBERTO DE JESUS">320A - CELIO ROBERTO DE JESUS</span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="5 - PORTAO">5 - PORTAO</span></td>
+<td><span title="406590 - RU PARAIBA">406590 - RU PARAIBA</span></td>
+<td><span class="">21/01/2023 13:22:00</span></td>
+<td><span class="">21/01/2023 13:40:00</span></td>
+<td><span class="">21/01/2023 14:01:26</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="900032 - INTEGRACAO DIGITEAM          ">900032 - INTEGRACAO DIGITEAM          </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">21/01/2023 07:20:52</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979823344">979823344</span></td>
+<td><span title="1">1</span></td>
+<td><span title="37 - RECOMPOSICAO DE PAVIMENTO">37 - RECOMPOSICAO DE PAVIMENTO</span></td>
+<td><span title="1 - RECOMPOSICAO DE PAVIMENTO - AGUA">1 - RECOMPOSICAO DE PAVIMENTO - AGUA</span></td>
+<td><span title="85 - RECOMPOS PAVIM PASSEIO">85 - RECOMPOS PAVIM PASSEIO</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="320A - CELIO ROBERTO DE JESUS">320A - CELIO ROBERTO DE JESUS</span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="5 - PORTAO">5 - PORTAO</span></td>
+<td><span title="406646 - RU FELIX DE ARAUJO">406646 - RU FELIX DE ARAUJO</span></td>
+<td><span class="">21/01/2023 09:22:00</span></td>
+<td><span class="">21/01/2023 09:28:00</span></td>
+<td><span class="">21/01/2023 09:28:32</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="900032 - INTEGRACAO DIGITEAM          ">900032 - INTEGRACAO DIGITEAM          </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">21/01/2023 07:23:24</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979823455">979823455</span></td>
+<td><span title="1">1</span></td>
+<td><span title="25 - MANUTENCAO DE ESGOTO">25 - MANUTENCAO DE ESGOTO</span></td>
+<td><span title="1 - EXTRAVASAMENTO DE ESGOTO RUA - PV">1 - EXTRAVASAMENTO DE ESGOTO RUA - PV</span></td>
+<td><span title="438 - DES RED ESG E PVS C/EQUIP">438 - DES RED ESG E PVS C/EQUIP</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="307-E - AILTON DOS SANTOS MACHADO">307-E - AILTON DOS SANTOS MACHADO</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="13 - ITINGA">13 - ITINGA</span></td>
+<td><span title="200223 - RU QUINTA DA GLORIA">200223 - RU QUINTA DA GLORIA</span></td>
+<td><span class="">21/01/2023 10:07:00</span></td>
+<td><span class="">21/01/2023 10:09:00</span></td>
+<td><span class="">21/01/2023 10:09:49</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="900032 - INTEGRACAO DIGITEAM          ">900032 - INTEGRACAO DIGITEAM          </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Esgoto">Esgoto</span></td>
+<td><span class="">21/01/2023 07:39:59</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979823624">979823624</span></td>
+<td><span title="1">1</span></td>
+<td><span title="43 - VAZAMENTO DE AGUA">43 - VAZAMENTO DE AGUA</span></td>
+<td><span title="2 - VAZAMENTO NO RAMAL">2 - VAZAMENTO NO RAMAL</span></td>
+<td><span title="320 - VAZ REDE NA RUA C/PAVIMEN">320 - VAZ REDE NA RUA C/PAVIMEN</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="210A - JOSEILTON JESUS DOS SANTOS">210A - JOSEILTON JESUS DOS SANTOS</span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="13 - ITINGA">13 - ITINGA</span></td>
+<td><span title="405429 - RU IRMA DULCE">405429 - RU IRMA DULCE</span></td>
+<td><span class="">21/01/2023 08:05:00</span></td>
+<td><span class="">21/01/2023 10:00:00</span></td>
+<td><span class="">21/01/2023 10:08:40</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="2">2</span></td>
+<td><span title="207572 - SANDRO RAPHAEL SANTOS MOURA  ">207572 - SANDRO RAPHAEL SANTOS MOURA  </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">21/01/2023 08:03:04</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979823646">979823646</span></td>
+<td><span title="1">1</span></td>
+<td><span title="25 - MANUTENCAO DE ESGOTO">25 - MANUTENCAO DE ESGOTO</span></td>
+<td><span title="1 - EXTRAVASAMENTO DE ESGOTO RUA - PV">1 - EXTRAVASAMENTO DE ESGOTO RUA - PV</span></td>
+<td><span title="438 - DES RED ESG E PVS C/EQUIP">438 - DES RED ESG E PVS C/EQUIP</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="307-E - AILTON DOS SANTOS MACHADO">307-E - AILTON DOS SANTOS MACHADO</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="37 - VIDA NOVA">37 - VIDA NOVA</span></td>
+<td><span title="414835 - CAM 79">414835 - CAM 79</span></td>
+<td><span class="">21/01/2023 09:22:00</span></td>
+<td><span class="">21/01/2023 09:32:00</span></td>
+<td><span class="">21/01/2023 09:32:16</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="900032 - INTEGRACAO DIGITEAM          ">900032 - INTEGRACAO DIGITEAM          </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Esgoto">Esgoto</span></td>
+<td><span class="">21/01/2023 07:57:40</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979823848">979823848</span></td>
+<td><span title="1">1</span></td>
+<td><span title="37 - RECOMPOSICAO DE PAVIMENTO">37 - RECOMPOSICAO DE PAVIMENTO</span></td>
+<td><span title="1 - RECOMPOSICAO DE PAVIMENTO - AGUA">1 - RECOMPOSICAO DE PAVIMENTO - AGUA</span></td>
+<td><span title="86 - RECOMPOSICAO PAVIMENT RUA">86 - RECOMPOSICAO PAVIMENT RUA</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="ASF700 - JOSEVAL NATIVIDADE DE JESUS">ASF700 - JOSEVAL NATIVIDADE DE JESUS</span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="5 - PORTAO">5 - PORTAO</span></td>
+<td><span title="400869 - RU SANTO ANTONIO">400869 - RU SANTO ANTONIO</span></td>
+<td><span class="">21/01/2023 12:40:00</span></td>
+<td><span class="">21/01/2023 13:40:00</span></td>
+<td><span class="">21/01/2023 13:55:48</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="207572 - SANDRO RAPHAEL SANTOS MOURA  ">207572 - SANDRO RAPHAEL SANTOS MOURA  </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">21/01/2023 08:14:06</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979823908">979823908</span></td>
+<td><span title="1">1</span></td>
+<td><span title="37 - RECOMPOSICAO DE PAVIMENTO">37 - RECOMPOSICAO DE PAVIMENTO</span></td>
+<td><span title="1 - RECOMPOSICAO DE PAVIMENTO - AGUA">1 - RECOMPOSICAO DE PAVIMENTO - AGUA</span></td>
+<td><span title="86 - RECOMPOSICAO PAVIMENT RUA">86 - RECOMPOSICAO PAVIMENT RUA</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="ASF700 - JOSEVAL NATIVIDADE DE JESUS">ASF700 - JOSEVAL NATIVIDADE DE JESUS</span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="13 - ITINGA">13 - ITINGA</span></td>
+<td><span title="403906 - RU ELOINA S DA SILVA">403906 - RU ELOINA S DA SILVA</span></td>
+<td><span class="">21/01/2023 10:50:00</span></td>
+<td><span class="">21/01/2023 11:03:00</span></td>
+<td><span class="">21/01/2023 11:16:07</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="207572 - SANDRO RAPHAEL SANTOS MOURA  ">207572 - SANDRO RAPHAEL SANTOS MOURA  </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">21/01/2023 08:17:36</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979823946">979823946</span></td>
+<td><span title="1">1</span></td>
+<td><span title="37 - RECOMPOSICAO DE PAVIMENTO">37 - RECOMPOSICAO DE PAVIMENTO</span></td>
+<td><span title="1 - RECOMPOSICAO DE PAVIMENTO - AGUA">1 - RECOMPOSICAO DE PAVIMENTO - AGUA</span></td>
+<td><span title="86 - RECOMPOSICAO PAVIMENT RUA">86 - RECOMPOSICAO PAVIMENT RUA</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="ASF700 - JOSEVAL NATIVIDADE DE JESUS">ASF700 - JOSEVAL NATIVIDADE DE JESUS</span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="5 - PORTAO">5 - PORTAO</span></td>
+<td><span title="406590 - RU PARAIBA">406590 - RU PARAIBA</span></td>
+<td><span class="">21/01/2023 12:00:00</span></td>
+<td><span class="">21/01/2023 12:20:00</span></td>
+<td><span class="">21/01/2023 12:29:47</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="207572 - SANDRO RAPHAEL SANTOS MOURA  ">207572 - SANDRO RAPHAEL SANTOS MOURA  </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">21/01/2023 08:21:11</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979824050">979824050</span></td>
+<td><span title="1">1</span></td>
+<td><span title="37 - RECOMPOSICAO DE PAVIMENTO">37 - RECOMPOSICAO DE PAVIMENTO</span></td>
+<td><span title="1 - RECOMPOSICAO DE PAVIMENTO - AGUA">1 - RECOMPOSICAO DE PAVIMENTO - AGUA</span></td>
+<td><span title="86 - RECOMPOSICAO PAVIMENT RUA">86 - RECOMPOSICAO PAVIMENT RUA</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="ASF700 - JOSEVAL NATIVIDADE DE JESUS">ASF700 - JOSEVAL NATIVIDADE DE JESUS</span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="13 - ITINGA">13 - ITINGA</span></td>
+<td><span title="403922 - RU BENEDITA P DOS SANTOS">403922 - RU BENEDITA P DOS SANTOS</span></td>
+<td><span class="">21/01/2023 10:50:00</span></td>
+<td><span class="">21/01/2023 11:03:00</span></td>
+<td><span class="">21/01/2023 11:20:27</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="207572 - SANDRO RAPHAEL SANTOS MOURA  ">207572 - SANDRO RAPHAEL SANTOS MOURA  </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">21/01/2023 08:27:16</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979824699">979824699</span></td>
+<td><span title="1">1</span></td>
+<td><span title="45 - VERIFICACAO DE FALTA DE AGUA">45 - VERIFICACAO DE FALTA DE AGUA</span></td>
+<td><span title="1 - FALTA DE AGUA NO IMOVEL">1 - FALTA DE AGUA NO IMOVEL</span></td>
+<td><span title="364 - VERIF FALTA AGUA IMOVEL">364 - VERIF FALTA AGUA IMOVEL</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="132A - MARCOS CASSIO DE JESUS SILVA">132A - MARCOS CASSIO DE JESUS SILVA</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="37 - VIDA NOVA">37 - VIDA NOVA</span></td>
+<td><span title="415220 - CAM 94">415220 - CAM 94</span></td>
+<td><span class="">21/01/2023 15:04:00</span></td>
+<td><span class="">21/01/2023 15:16:00</span></td>
+<td><span class="">21/01/2023 15:16:41</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="900032 - INTEGRACAO DIGITEAM          ">900032 - INTEGRACAO DIGITEAM          </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">21/01/2023 13:31:04</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979824831">979824831</span></td>
+<td><span title="1">1</span></td>
+<td><span title="45 - VERIFICACAO DE FALTA DE AGUA">45 - VERIFICACAO DE FALTA DE AGUA</span></td>
+<td><span title="1 - FALTA DE AGUA NO IMOVEL">1 - FALTA DE AGUA NO IMOVEL</span></td>
+<td><span title="364 - VERIF FALTA AGUA IMOVEL">364 - VERIF FALTA AGUA IMOVEL</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="132A - MARCOS CASSIO DE JESUS SILVA">132A - MARCOS CASSIO DE JESUS SILVA</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="5 - PORTAO">5 - PORTAO</span></td>
+<td><span title="406565 - AV QUEIRA DEUS">406565 - AV QUEIRA DEUS</span></td>
+<td><span class="">21/01/2023 14:09:00</span></td>
+<td><span class="">21/01/2023 14:21:00</span></td>
+<td><span class="">21/01/2023 14:21:51</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="900032 - INTEGRACAO DIGITEAM          ">900032 - INTEGRACAO DIGITEAM          </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">21/01/2023 13:31:04</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979825153">979825153</span></td>
+<td><span title="1">1</span></td>
+<td><span title="25 - MANUTENCAO DE ESGOTO">25 - MANUTENCAO DE ESGOTO</span></td>
+<td><span title="16 - COLOCACAO OU VEDACAO TAMPA CI">16 - COLOCACAO OU VEDACAO TAMPA CI</span></td>
+<td><span title="470 - REP E/OU VEDACAO TAMPA CI">470 - REP E/OU VEDACAO TAMPA CI</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="402-E - CARLOS ALBERIO DOS SANTOS">402-E - CARLOS ALBERIO DOS SANTOS</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="3 - CAJI">3 - CAJI</span></td>
+<td><span title="402640 - RU DINAH RODRIGUES">402640 - RU DINAH RODRIGUES</span></td>
+<td><span class="">21/01/2023 10:29:00</span></td>
+<td><span class="">21/01/2023 10:46:00</span></td>
+<td><span class="">21/01/2023 10:50:33</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="207572 - SANDRO RAPHAEL SANTOS MOURA  ">207572 - SANDRO RAPHAEL SANTOS MOURA  </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Esgoto">Esgoto</span></td>
+<td><span class="">21/01/2023 09:37:13</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979826354">979826354</span></td>
+<td><span title="1">1</span></td>
+<td><span title="45 - VERIFICACAO DE FALTA DE AGUA">45 - VERIFICACAO DE FALTA DE AGUA</span></td>
+<td><span title="1 - FALTA DE AGUA NO IMOVEL">1 - FALTA DE AGUA NO IMOVEL</span></td>
+<td><span title="364 - VERIF FALTA AGUA IMOVEL">364 - VERIF FALTA AGUA IMOVEL</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="132A - MARCOS CASSIO DE JESUS SILVA">132A - MARCOS CASSIO DE JESUS SILVA</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="5 - PORTAO">5 - PORTAO</span></td>
+<td><span title="406620 - RU BELA VISTA">406620 - RU BELA VISTA</span></td>
+<td><span class="">21/01/2023 14:27:00</span></td>
+<td><span class="">21/01/2023 14:38:00</span></td>
+<td><span class="">21/01/2023 14:38:16</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="900032 - INTEGRACAO DIGITEAM          ">900032 - INTEGRACAO DIGITEAM          </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">21/01/2023 13:31:04</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979826515">979826515</span></td>
+<td><span title="1">1</span></td>
+<td><span title="25 - MANUTENCAO DE ESGOTO">25 - MANUTENCAO DE ESGOTO</span></td>
+<td><span title="1 - EXTRAVASAMENTO DE ESGOTO RUA - PV">1 - EXTRAVASAMENTO DE ESGOTO RUA - PV</span></td>
+<td><span title="438 - DES RED ESG E PVS C/EQUIP">438 - DES RED ESG E PVS C/EQUIP</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="307-E - AILTON DOS SANTOS MACHADO">307-E - AILTON DOS SANTOS MACHADO</span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="13 - ITINGA">13 - ITINGA</span></td>
+<td><span title="200223 - RU QUINTA DA GLORIA">200223 - RU QUINTA DA GLORIA</span></td>
+<td><span class="">21/01/2023 10:55:00</span></td>
+<td><span class="">21/01/2023 11:20:00</span></td>
+<td><span class="">21/01/2023 11:34:19</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="207572 - SANDRO RAPHAEL SANTOS MOURA  ">207572 - SANDRO RAPHAEL SANTOS MOURA  </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Esgoto">Esgoto</span></td>
+<td><span class="">21/01/2023 10:52:23</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979826590">979826590</span></td>
+<td><span title="1">1</span></td>
+<td><span title="43 - VAZAMENTO DE AGUA">43 - VAZAMENTO DE AGUA</span></td>
+<td><span title="3 - VAZAMENTO NO HIDROMETRO">3 - VAZAMENTO NO HIDROMETRO</span></td>
+<td><span title="290 - VAZAMENTO NO HIDROMETRO">290 - VAZAMENTO NO HIDROMETRO</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="210A - JOSEILTON JESUS DOS SANTOS">210A - JOSEILTON JESUS DOS SANTOS</span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="13 - ITINGA">13 - ITINGA</span></td>
+<td><span title="400885 - RU N SRA APARECIDA">400885 - RU N SRA APARECIDA</span></td>
+<td><span class="">21/01/2023 13:20:00</span></td>
+<td><span class="">21/01/2023 13:30:00</span></td>
+<td><span class="">21/01/2023 14:10:22</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="1">1</span></td>
+<td><span title="207572 - SANDRO RAPHAEL SANTOS MOURA  ">207572 - SANDRO RAPHAEL SANTOS MOURA  </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">21/01/2023 10:58:23</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979827129">979827129</span></td>
+<td><span title="1">1</span></td>
+<td><span title="45 - VERIFICACAO DE FALTA DE AGUA">45 - VERIFICACAO DE FALTA DE AGUA</span></td>
+<td><span title="1 - FALTA DE AGUA NO IMOVEL">1 - FALTA DE AGUA NO IMOVEL</span></td>
+<td><span title="364 - VERIF FALTA AGUA IMOVEL">364 - VERIF FALTA AGUA IMOVEL</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="218 E - REINALDO BISPO ALCANTARA">218 E - REINALDO BISPO ALCANTARA</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="10 - CENTRO">10 - CENTRO</span></td>
+<td><span title="400699 - RU BERNADINO DOS SANTOS">400699 - RU BERNADINO DOS SANTOS</span></td>
+<td><span class="">21/01/2023 13:32:00</span></td>
+<td><span class="">21/01/2023 13:40:00</span></td>
+<td><span class="">21/01/2023 13:59:46</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="207572 - SANDRO RAPHAEL SANTOS MOURA  ">207572 - SANDRO RAPHAEL SANTOS MOURA  </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">21/01/2023 13:31:05</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979827197">979827197</span></td>
+<td><span title="1">1</span></td>
+<td><span title="37 - RECOMPOSICAO DE PAVIMENTO">37 - RECOMPOSICAO DE PAVIMENTO</span></td>
+<td><span title="1 - RECOMPOSICAO DE PAVIMENTO - AGUA">1 - RECOMPOSICAO DE PAVIMENTO - AGUA</span></td>
+<td><span title="86 - RECOMPOSICAO PAVIMENT RUA">86 - RECOMPOSICAO PAVIMENT RUA</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="ASF700 - JOSEVAL NATIVIDADE DE JESUS">ASF700 - JOSEVAL NATIVIDADE DE JESUS</span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="13 - ITINGA">13 - ITINGA</span></td>
+<td><span title="403906 - RU ELOINA S DA SILVA">403906 - RU ELOINA S DA SILVA</span></td>
+<td><span class="">21/01/2023 11:26:00</span></td>
+<td><span class="">21/01/2023 11:31:00</span></td>
+<td><span class="">21/01/2023 11:32:28</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="207572 - SANDRO RAPHAEL SANTOS MOURA  ">207572 - SANDRO RAPHAEL SANTOS MOURA  </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">21/01/2023 11:25:54</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979827259">979827259</span></td>
+<td><span title="1">1</span></td>
+<td><span title="47 - VERIFICACAO DE PRESSAO">47 - VERIFICACAO DE PRESSAO</span></td>
+<td><span title="1 - VERIFICACAO DE PRESSAO">1 - VERIFICACAO DE PRESSAO</span></td>
+<td><span title="363 - VERIF BAIXA DE PRESSAO">363 - VERIF BAIXA DE PRESSAO</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title=""></span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="10 - CENTRO">10 - CENTRO</span></td>
+<td><span title="400699 - RU BERNADINO DOS SANTOS">400699 - RU BERNADINO DOS SANTOS</span></td>
+<td><span class="">22/01/2023 11:02:00</span></td>
+<td><span class="">22/01/2023 11:19:00</span></td>
+<td><span class="">22/01/2023 11:19:54</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="900032 - INTEGRACAO DIGITEAM          ">900032 - INTEGRACAO DIGITEAM          </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">22/01/2023 08:04:25</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979827332">979827332</span></td>
+<td><span title="1">1</span></td>
+<td><span title="43 - VAZAMENTO DE AGUA">43 - VAZAMENTO DE AGUA</span></td>
+<td><span title="3 - VAZAMENTO NO HIDROMETRO">3 - VAZAMENTO NO HIDROMETRO</span></td>
+<td><span title="290 - VAZAMENTO NO HIDROMETRO">290 - VAZAMENTO NO HIDROMETRO</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="218A - JILTON RENILTON DE MELO">218A - JILTON RENILTON DE MELO</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="10 - CENTRO">10 - CENTRO</span></td>
+<td><span title="400699 - RU BERNADINO DOS SANTOS">400699 - RU BERNADINO DOS SANTOS</span></td>
+<td><span class="">21/01/2023 13:38:00</span></td>
+<td><span class="">21/01/2023 13:42:00</span></td>
+<td><span class="">21/01/2023 14:02:37</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="1">1</span></td>
+<td><span title="900032 - INTEGRACAO DIGITEAM          ">900032 - INTEGRACAO DIGITEAM          </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">21/01/2023 11:41:54</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979827418">979827418</span></td>
+<td><span title="1">1</span></td>
+<td><span title="37 - RECOMPOSICAO DE PAVIMENTO">37 - RECOMPOSICAO DE PAVIMENTO</span></td>
+<td><span title="1 - RECOMPOSICAO DE PAVIMENTO - AGUA">1 - RECOMPOSICAO DE PAVIMENTO - AGUA</span></td>
+<td><span title="85 - RECOMPOS PAVIM PASSEIO">85 - RECOMPOS PAVIM PASSEIO</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="320A - CELIO ROBERTO DE JESUS">320A - CELIO ROBERTO DE JESUS</span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="13 - ITINGA">13 - ITINGA</span></td>
+<td><span title="405429 - RU IRMA DULCE">405429 - RU IRMA DULCE</span></td>
+<td><span class="">21/01/2023 11:41:00</span></td>
+<td><span class="">21/01/2023 12:05:00</span></td>
+<td><span class="">21/01/2023 12:09:08</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="207572 - SANDRO RAPHAEL SANTOS MOURA  ">207572 - SANDRO RAPHAEL SANTOS MOURA  </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">21/01/2023 11:40:21</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979827668">979827668</span></td>
+<td><span title="1">1</span></td>
+<td><span title="45 - VERIFICACAO DE FALTA DE AGUA">45 - VERIFICACAO DE FALTA DE AGUA</span></td>
+<td><span title="1 - FALTA DE AGUA NO IMOVEL">1 - FALTA DE AGUA NO IMOVEL</span></td>
+<td><span title="364 - VERIF FALTA AGUA IMOVEL">364 - VERIF FALTA AGUA IMOVEL</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="218A - JILTON RENILTON DE MELO">218A - JILTON RENILTON DE MELO</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="9 - PITANGUEIRAS">9 - PITANGUEIRAS</span></td>
+<td><span title="408207 - RU ROSALVO BARBOSA">408207 - RU ROSALVO BARBOSA</span></td>
+<td><span class="">21/01/2023 14:48:00</span></td>
+<td><span class="">21/01/2023 14:55:00</span></td>
+<td><span class="">21/01/2023 14:56:19</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="1">1</span></td>
+<td><span title="900032 - INTEGRACAO DIGITEAM          ">900032 - INTEGRACAO DIGITEAM          </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">21/01/2023 13:31:04</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979827974">979827974</span></td>
+<td><span title="1">1</span></td>
+<td><span title="24 - RETIRADA DE ENTULHO/LIMP GERAL">24 - RETIRADA DE ENTULHO/LIMP GERAL</span></td>
+<td><span title="1 - LIMPEZA GERAL">1 - LIMPEZA GERAL</span></td>
+<td><span title="489 - LIMPEZA RUAS E CALCADAS">489 - LIMPEZA RUAS E CALCADAS</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="CMB - CARLOS JUNIOR DA SILVA SANTOS">CMB - CARLOS JUNIOR DA SILVA SANTOS</span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="5 - PORTAO">5 - PORTAO</span></td>
+<td><span title="400869 - RU SANTO ANTONIO">400869 - RU SANTO ANTONIO</span></td>
+<td><span class="">21/01/2023 12:20:00</span></td>
+<td><span class="">21/01/2023 12:25:00</span></td>
+<td><span class="">21/01/2023 12:30:54</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="207572 - SANDRO RAPHAEL SANTOS MOURA  ">207572 - SANDRO RAPHAEL SANTOS MOURA  </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">21/01/2023 12:14:17</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979828576">979828576</span></td>
+<td><span title="1">1</span></td>
+<td><span title="37 - RECOMPOSICAO DE PAVIMENTO">37 - RECOMPOSICAO DE PAVIMENTO</span></td>
+<td><span title="1 - RECOMPOSICAO DE PAVIMENTO - AGUA">1 - RECOMPOSICAO DE PAVIMENTO - AGUA</span></td>
+<td><span title="86 - RECOMPOSICAO PAVIMENT RUA">86 - RECOMPOSICAO PAVIMENT RUA</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="ASF700 - JOSEVAL NATIVIDADE DE JESUS">ASF700 - JOSEVAL NATIVIDADE DE JESUS</span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="6 - VILA PRAIANA">6 - VILA PRAIANA</span></td>
+<td><span title="401954 - RU PORTO MAR">401954 - RU PORTO MAR</span></td>
+<td><span class="">21/01/2023 13:50:00</span></td>
+<td><span class="">21/01/2023 14:00:00</span></td>
+<td><span class="">21/01/2023 14:05:52</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="207572 - SANDRO RAPHAEL SANTOS MOURA  ">207572 - SANDRO RAPHAEL SANTOS MOURA  </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">21/01/2023 13:02:18</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979828581">979828581</span></td>
+<td><span title="1">1</span></td>
+<td><span title="25 - MANUTENCAO DE ESGOTO">25 - MANUTENCAO DE ESGOTO</span></td>
+<td><span title="2 - EXTRAVASAMENTO DE ESGOTO RAMAL - CI">2 - EXTRAVASAMENTO DE ESGOTO RAMAL - CI</span></td>
+<td><span title="438 - DES RED ESG E PVS C/EQUIP">438 - DES RED ESG E PVS C/EQUIP</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="307-E - AILTON DOS SANTOS MACHADO">307-E - AILTON DOS SANTOS MACHADO</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="13 - ITINGA">13 - ITINGA</span></td>
+<td><span title="412948 - CAM 36">412948 - CAM 36</span></td>
+<td><span class="">21/01/2023 15:50:00</span></td>
+<td><span class="">21/01/2023 16:30:00</span></td>
+<td><span class="">21/01/2023 16:33:42</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="207572 - SANDRO RAPHAEL SANTOS MOURA  ">207572 - SANDRO RAPHAEL SANTOS MOURA  </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Esgoto">Esgoto</span></td>
+<td><span class="">21/01/2023 13:02:30</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979828805">979828805</span></td>
+<td><span title="1">1</span></td>
+<td><span title="43 - VAZAMENTO DE AGUA">43 - VAZAMENTO DE AGUA</span></td>
+<td><span title="2 - VAZAMENTO NO RAMAL">2 - VAZAMENTO NO RAMAL</span></td>
+<td><span title="319 - VAZ REDE PASSEIO S/PAVIM">319 - VAZ REDE PASSEIO S/PAVIM</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="215-A - NARCISO CONCEICAO FRANCA">215-A - NARCISO CONCEICAO FRANCA</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="11 - BURAQUINHO">11 - BURAQUINHO</span></td>
+<td><span title="407502 - RU JOAO MARQUES OLIVEIRA">407502 - RU JOAO MARQUES OLIVEIRA</span></td>
+<td><span class="">21/01/2023 14:07:00</span></td>
+<td><span class="">21/01/2023 14:54:00</span></td>
+<td><span class="">21/01/2023 15:09:56</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="2">2</span></td>
+<td><span title="207572 - SANDRO RAPHAEL SANTOS MOURA  ">207572 - SANDRO RAPHAEL SANTOS MOURA  </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">21/01/2023 13:31:27</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979829502">979829502</span></td>
+<td><span title="1">1</span></td>
+<td><span title="37 - RECOMPOSICAO DE PAVIMENTO">37 - RECOMPOSICAO DE PAVIMENTO</span></td>
+<td><span title="1 - RECOMPOSICAO DE PAVIMENTO - AGUA">1 - RECOMPOSICAO DE PAVIMENTO - AGUA</span></td>
+<td><span title="85 - RECOMPOS PAVIM PASSEIO">85 - RECOMPOS PAVIM PASSEIO</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="320A - CELIO ROBERTO DE JESUS">320A - CELIO ROBERTO DE JESUS</span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="5 - PORTAO">5 - PORTAO</span></td>
+<td><span title="400869 - RU SANTO ANTONIO">400869 - RU SANTO ANTONIO</span></td>
+<td><span class="">21/01/2023 14:35:00</span></td>
+<td><span class="">21/01/2023 14:50:00</span></td>
+<td><span class="">21/01/2023 15:03:41</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="207572 - SANDRO RAPHAEL SANTOS MOURA  ">207572 - SANDRO RAPHAEL SANTOS MOURA  </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">21/01/2023 14:29:40</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979829608">979829608</span></td>
+<td><span title="1">1</span></td>
+<td><span title="43 - VAZAMENTO DE AGUA">43 - VAZAMENTO DE AGUA</span></td>
+<td><span title="3 - VAZAMENTO NO HIDROMETRO">3 - VAZAMENTO NO HIDROMETRO</span></td>
+<td><span title="290 - VAZAMENTO NO HIDROMETRO">290 - VAZAMENTO NO HIDROMETRO</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="218A - JILTON RENILTON DE MELO">218A - JILTON RENILTON DE MELO</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="37 - VIDA NOVA">37 - VIDA NOVA</span></td>
+<td><span title="402829 - RU NILZETE O SOUZA">402829 - RU NILZETE O SOUZA</span></td>
+<td><span class="">21/01/2023 16:00:00</span></td>
+<td><span class="">21/01/2023 16:20:00</span></td>
+<td><span class="">21/01/2023 17:00:13</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="1">1</span></td>
+<td><span title="207572 - SANDRO RAPHAEL SANTOS MOURA  ">207572 - SANDRO RAPHAEL SANTOS MOURA  </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">21/01/2023 15:25:50</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979829654">979829654</span></td>
+<td><span title="1">1</span></td>
+<td><span title="43 - VAZAMENTO DE AGUA">43 - VAZAMENTO DE AGUA</span></td>
+<td><span title="1 - VAZAMENTO NA REDE">1 - VAZAMENTO NA REDE</span></td>
+<td><span title="320 - VAZ REDE NA RUA C/PAVIMEN">320 - VAZ REDE NA RUA C/PAVIMEN</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="210A - JOSEILTON JESUS DOS SANTOS">210A - JOSEILTON JESUS DOS SANTOS</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="13 - ITINGA">13 - ITINGA</span></td>
+<td><span title="430784 - RU ARNALDO S SANTOS">430784 - RU ARNALDO S SANTOS</span></td>
+<td><span class="">22/01/2023 09:21:00</span></td>
+<td><span class="">22/01/2023 10:28:00</span></td>
+<td><span class="">22/01/2023 10:32:04</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="4">4</span></td>
+<td><span title="207572 - SANDRO RAPHAEL SANTOS MOURA  ">207572 - SANDRO RAPHAEL SANTOS MOURA  </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">22/01/2023 08:28:51</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979830208">979830208</span></td>
+<td><span title="1">1</span></td>
+<td><span title="45 - VERIFICACAO DE FALTA DE AGUA">45 - VERIFICACAO DE FALTA DE AGUA</span></td>
+<td><span title="1 - FALTA DE AGUA NO IMOVEL">1 - FALTA DE AGUA NO IMOVEL</span></td>
+<td><span title="37 - VISITA">37 - VISITA</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="132A - MARCOS CASSIO DE JESUS SILVA">132A - MARCOS CASSIO DE JESUS SILVA</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="2 - VILAS ATLANTICO">2 - VILAS ATLANTICO</span></td>
+<td><span title="408312 - RU PRAIA DA PENHA">408312 - RU PRAIA DA PENHA</span></td>
+<td><span class="">22/01/2023 11:40:00</span></td>
+<td><span class="">22/01/2023 11:50:00</span></td>
+<td><span class="">22/01/2023 12:09:17</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="207572 - SANDRO RAPHAEL SANTOS MOURA  ">207572 - SANDRO RAPHAEL SANTOS MOURA  </span></td>
+<td><span title="Não">Não</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">21/01/2023 22:24:01</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979830465">979830465</span></td>
+<td><span title="1">1</span></td>
+<td><span title="47 - VERIFICACAO DE PRESSAO">47 - VERIFICACAO DE PRESSAO</span></td>
+<td><span title="1 - VERIFICACAO DE PRESSAO">1 - VERIFICACAO DE PRESSAO</span></td>
+<td><span title="363 - VERIF BAIXA DE PRESSAO">363 - VERIF BAIXA DE PRESSAO</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title=""></span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="19 - JAMBEIRO">19 - JAMBEIRO</span></td>
+<td><span title="410759 - RU SAO JOSE">410759 - RU SAO JOSE</span></td>
+<td><span class="">22/01/2023 09:15:00</span></td>
+<td><span class="">22/01/2023 09:38:00</span></td>
+<td><span class="">22/01/2023 10:01:05</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="900032 - INTEGRACAO DIGITEAM          ">900032 - INTEGRACAO DIGITEAM          </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">22/01/2023 08:04:41</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979831635">979831635</span></td>
+<td><span title="1">1</span></td>
+<td><span title="43 - VAZAMENTO DE AGUA">43 - VAZAMENTO DE AGUA</span></td>
+<td><span title="3 - VAZAMENTO NO HIDROMETRO">3 - VAZAMENTO NO HIDROMETRO</span></td>
+<td><span title="290 - VAZAMENTO NO HIDROMETRO">290 - VAZAMENTO NO HIDROMETRO</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title=""></span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="11 - BURAQUINHO">11 - BURAQUINHO</span></td>
+<td><span title="407529 - RU FELICIA CARDOSO DOS SANTOS">407529 - RU FELICIA CARDOSO DOS SANTOS</span></td>
+<td><span class="">22/01/2023 08:33:00</span></td>
+<td><span class="">22/01/2023 09:05:00</span></td>
+<td><span class="">22/01/2023 09:06:22</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="1">1</span></td>
+<td><span title="900032 - INTEGRACAO DIGITEAM          ">900032 - INTEGRACAO DIGITEAM          </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">21/01/2023 22:24:01</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979831762">979831762</span></td>
+<td><span title="1">1</span></td>
+<td><span title="43 - VAZAMENTO DE AGUA">43 - VAZAMENTO DE AGUA</span></td>
+<td><span title="3 - VAZAMENTO NO HIDROMETRO">3 - VAZAMENTO NO HIDROMETRO</span></td>
+<td><span title="290 - VAZAMENTO NO HIDROMETRO">290 - VAZAMENTO NO HIDROMETRO</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="210A - JOSEILTON JESUS DOS SANTOS">210A - JOSEILTON JESUS DOS SANTOS</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="13 - ITINGA">13 - ITINGA</span></td>
+<td><span title="403655 - RU ORLANDO MOSCOSO">403655 - RU ORLANDO MOSCOSO</span></td>
+<td><span class="">22/01/2023 08:45:00</span></td>
+<td><span class="">22/01/2023 09:00:00</span></td>
+<td><span class="">22/01/2023 09:16:46</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="2">2</span></td>
+<td><span title="207572 - SANDRO RAPHAEL SANTOS MOURA  ">207572 - SANDRO RAPHAEL SANTOS MOURA  </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">21/01/2023 22:24:01</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979831771">979831771</span></td>
+<td><span title="1">1</span></td>
+<td><span title="47 - VERIFICACAO DE PRESSAO">47 - VERIFICACAO DE PRESSAO</span></td>
+<td><span title="1 - VERIFICACAO DE PRESSAO">1 - VERIFICACAO DE PRESSAO</span></td>
+<td><span title="363 - VERIF BAIXA DE PRESSAO">363 - VERIF BAIXA DE PRESSAO</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="132A - MARCOS CASSIO DE JESUS SILVA">132A - MARCOS CASSIO DE JESUS SILVA</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="13 - ITINGA">13 - ITINGA</span></td>
+<td><span title="403655 - RU ORLANDO MOSCOSO">403655 - RU ORLANDO MOSCOSO</span></td>
+<td><span class="">22/01/2023 10:00:00</span></td>
+<td><span class="">22/01/2023 10:20:00</span></td>
+<td><span class="">22/01/2023 11:50:45</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="207572 - SANDRO RAPHAEL SANTOS MOURA  ">207572 - SANDRO RAPHAEL SANTOS MOURA  </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">22/01/2023 08:04:55</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979832071">979832071</span></td>
+<td><span title="1">1</span></td>
+<td><span title="43 - VAZAMENTO DE AGUA">43 - VAZAMENTO DE AGUA</span></td>
+<td><span title="1 - VAZAMENTO NA REDE">1 - VAZAMENTO NA REDE</span></td>
+<td><span title="37 - VISITA">37 - VISITA</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="215-A - NARCISO CONCEICAO FRANCA">215-A - NARCISO CONCEICAO FRANCA</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="25 - AREIA BRAN  SSA">25 - AREIA BRAN  SSA</span></td>
+<td><span title="194207 - RU SAO LOURENCO">194207 - RU SAO LOURENCO</span></td>
+<td><span class="">22/01/2023 08:45:00</span></td>
+<td><span class="">22/01/2023 09:00:00</span></td>
+<td><span class="">22/01/2023 09:05:10</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="207572 - SANDRO RAPHAEL SANTOS MOURA  ">207572 - SANDRO RAPHAEL SANTOS MOURA  </span></td>
+<td><span title="Não">Não</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">22/01/2023 05:33:25</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979832234">979832234</span></td>
+<td><span title="1">1</span></td>
+<td><span title="43 - VAZAMENTO DE AGUA">43 - VAZAMENTO DE AGUA</span></td>
+<td><span title="3 - VAZAMENTO NO HIDROMETRO">3 - VAZAMENTO NO HIDROMETRO</span></td>
+<td><span title="319 - VAZ REDE PASSEIO S/PAVIM">319 - VAZ REDE PASSEIO S/PAVIM</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="218A - JILTON RENILTON DE MELO">218A - JILTON RENILTON DE MELO</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="11 - BURAQUINHO">11 - BURAQUINHO</span></td>
+<td><span title="407502 - RU JOAO MARQUES OLIVEIRA">407502 - RU JOAO MARQUES OLIVEIRA</span></td>
+<td><span class="">22/01/2023 09:00:00</span></td>
+<td><span class="">22/01/2023 10:30:00</span></td>
+<td><span class="">22/01/2023 11:41:00</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="2">2</span></td>
+<td><span title="207572 - SANDRO RAPHAEL SANTOS MOURA  ">207572 - SANDRO RAPHAEL SANTOS MOURA  </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">22/01/2023 05:33:25</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979832816">979832816</span></td>
+<td><span title="1">1</span></td>
+<td><span title="25 - MANUTENCAO DE ESGOTO">25 - MANUTENCAO DE ESGOTO</span></td>
+<td><span title="1 - EXTRAVASAMENTO DE ESGOTO RUA - PV">1 - EXTRAVASAMENTO DE ESGOTO RUA - PV</span></td>
+<td><span title="438 - DES RED ESG E PVS C/EQUIP">438 - DES RED ESG E PVS C/EQUIP</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="307-E - AILTON DOS SANTOS MACHADO">307-E - AILTON DOS SANTOS MACHADO</span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="1 - IPITANGA">1 - IPITANGA</span></td>
+<td><span title="401270 - RU JOSE RIBEIRO DA SILVA">401270 - RU JOSE RIBEIRO DA SILVA</span></td>
+<td><span class="">22/01/2023 08:45:00</span></td>
+<td><span class="">22/01/2023 09:45:00</span></td>
+<td><span class="">22/01/2023 10:38:08</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="207572 - SANDRO RAPHAEL SANTOS MOURA  ">207572 - SANDRO RAPHAEL SANTOS MOURA  </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Esgoto">Esgoto</span></td>
+<td><span class="">22/01/2023 07:40:10</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979832835">979832835</span></td>
+<td><span title="1">1</span></td>
+<td><span title="25 - MANUTENCAO DE ESGOTO">25 - MANUTENCAO DE ESGOTO</span></td>
+<td><span title="15 - COLOCACAO OU VEDACAO TAMPA PV">15 - COLOCACAO OU VEDACAO TAMPA PV</span></td>
+<td><span title="470 - REP E/OU VEDACAO TAMPA CI">470 - REP E/OU VEDACAO TAMPA CI</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="222E - GILVANDO DE SOUZA SANTOS">222E - GILVANDO DE SOUZA SANTOS</span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="13 - ITINGA">13 - ITINGA</span></td>
+<td><span title="412948 - CAM 36">412948 - CAM 36</span></td>
+<td><span class="">22/01/2023 08:15:00</span></td>
+<td><span class="">22/01/2023 08:35:00</span></td>
+<td><span class="">22/01/2023 08:53:08</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="207572 - SANDRO RAPHAEL SANTOS MOURA  ">207572 - SANDRO RAPHAEL SANTOS MOURA  </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Esgoto">Esgoto</span></td>
+<td><span class="">22/01/2023 07:42:53</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979833123">979833123</span></td>
+<td><span title="1">1</span></td>
+<td><span title="37 - RECOMPOSICAO DE PAVIMENTO">37 - RECOMPOSICAO DE PAVIMENTO</span></td>
+<td><span title="1 - RECOMPOSICAO DE PAVIMENTO - AGUA">1 - RECOMPOSICAO DE PAVIMENTO - AGUA</span></td>
+<td><span title="85 - RECOMPOS PAVIM PASSEIO">85 - RECOMPOS PAVIM PASSEIO</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title=""></span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="13 - ITINGA">13 - ITINGA</span></td>
+<td><span title="403639 - RU JOSE C DOS SANTOS">403639 - RU JOSE C DOS SANTOS</span></td>
+<td><span class="">22/01/2023 08:54:00</span></td>
+<td><span class="">22/01/2023 09:07:00</span></td>
+<td><span class="">22/01/2023 09:08:08</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="900032 - INTEGRACAO DIGITEAM          ">900032 - INTEGRACAO DIGITEAM          </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">22/01/2023 08:22:20</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979833202">979833202</span></td>
+<td><span title="1">1</span></td>
+<td><span title="45 - VERIFICACAO DE FALTA DE AGUA">45 - VERIFICACAO DE FALTA DE AGUA</span></td>
+<td><span title="2 - FALTA DE AGUA NA RUA / LOGRADOURO">2 - FALTA DE AGUA NA RUA / LOGRADOURO</span></td>
+<td><span title="365 - VERIF FALTA AGUA RUA">365 - VERIF FALTA AGUA RUA</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="132A - MARCOS CASSIO DE JESUS SILVA">132A - MARCOS CASSIO DE JESUS SILVA</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="2 - VILAS ATLANTICO">2 - VILAS ATLANTICO</span></td>
+<td><span title="408681 - AA PRAIA DE CONCEICAO">408681 - AA PRAIA DE CONCEICAO</span></td>
+<td><span class="">22/01/2023 11:36:00</span></td>
+<td><span class="">22/01/2023 11:54:00</span></td>
+<td><span class="">22/01/2023 12:04:16</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="900032 - INTEGRACAO DIGITEAM          ">900032 - INTEGRACAO DIGITEAM          </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">22/01/2023 08:46:03</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979833223">979833223</span></td>
+<td><span title="1">1</span></td>
+<td><span title="43 - VAZAMENTO DE AGUA">43 - VAZAMENTO DE AGUA</span></td>
+<td><span title="2 - VAZAMENTO NO RAMAL">2 - VAZAMENTO NO RAMAL</span></td>
+<td><span title="291 - VAZ RAMAL NA RUA COM PAVI">291 - VAZ RAMAL NA RUA COM PAVI</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="218A - JILTON RENILTON DE MELO">218A - JILTON RENILTON DE MELO</span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="1 - IPITANGA">1 - IPITANGA</span></td>
+<td><span title="401334 - RU DRA LIGIA DANTAS S COSTA">401334 - RU DRA LIGIA DANTAS S COSTA</span></td>
+<td><span class="">22/01/2023 11:28:00</span></td>
+<td><span class="">22/01/2023 11:32:00</span></td>
+<td><span class="">22/01/2023 11:34:16</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="1">1</span></td>
+<td><span title="900032 - INTEGRACAO DIGITEAM          ">900032 - INTEGRACAO DIGITEAM          </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">22/01/2023 08:41:34</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979833246">979833246</span></td>
+<td><span title="1">1</span></td>
+<td><span title="43 - VAZAMENTO DE AGUA">43 - VAZAMENTO DE AGUA</span></td>
+<td><span title="3 - VAZAMENTO NO HIDROMETRO">3 - VAZAMENTO NO HIDROMETRO</span></td>
+<td><span title="290 - VAZAMENTO NO HIDROMETRO">290 - VAZAMENTO NO HIDROMETRO</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="215-A - NARCISO CONCEICAO FRANCA">215-A - NARCISO CONCEICAO FRANCA</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="13 - ITINGA">13 - ITINGA</span></td>
+<td><span title="403396 - RU LOURENCO F DOS SANTOS">403396 - RU LOURENCO F DOS SANTOS</span></td>
+<td><span class="">22/01/2023 11:34:00</span></td>
+<td><span class="">22/01/2023 11:49:00</span></td>
+<td><span class="">22/01/2023 12:13:59</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="2">2</span></td>
+<td><span title="207572 - SANDRO RAPHAEL SANTOS MOURA  ">207572 - SANDRO RAPHAEL SANTOS MOURA  </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">22/01/2023 09:03:08</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979833490">979833490</span></td>
+<td><span title="1">1</span></td>
+<td><span title="45 - VERIFICACAO DE FALTA DE AGUA">45 - VERIFICACAO DE FALTA DE AGUA</span></td>
+<td><span title="2 - FALTA DE AGUA NA RUA / LOGRADOURO">2 - FALTA DE AGUA NA RUA / LOGRADOURO</span></td>
+<td><span title="365 - VERIF FALTA AGUA RUA">365 - VERIF FALTA AGUA RUA</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="215-A - NARCISO CONCEICAO FRANCA">215-A - NARCISO CONCEICAO FRANCA</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="19 - JAMBEIRO">19 - JAMBEIRO</span></td>
+<td><span title="410066 - AV PROGRESSO">410066 - AV PROGRESSO</span></td>
+<td><span class="">22/01/2023 10:20:00</span></td>
+<td><span class="">22/01/2023 10:40:00</span></td>
+<td><span class="">22/01/2023 10:47:37</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="207572 - SANDRO RAPHAEL SANTOS MOURA  ">207572 - SANDRO RAPHAEL SANTOS MOURA  </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">22/01/2023 09:34:25</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979833558">979833558</span></td>
+<td><span title="1">1</span></td>
+<td><span title="43 - VAZAMENTO DE AGUA">43 - VAZAMENTO DE AGUA</span></td>
+<td><span title="3 - VAZAMENTO NO HIDROMETRO">3 - VAZAMENTO NO HIDROMETRO</span></td>
+<td><span title="290 - VAZAMENTO NO HIDROMETRO">290 - VAZAMENTO NO HIDROMETRO</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="215-A - NARCISO CONCEICAO FRANCA">215-A - NARCISO CONCEICAO FRANCA</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="13 - ITINGA">13 - ITINGA</span></td>
+<td><span title="92552 - RU ADUSTINA">92552 - RU ADUSTINA</span></td>
+<td><span class="">22/01/2023 10:45:00</span></td>
+<td><span class="">22/01/2023 11:00:00</span></td>
+<td><span class="">22/01/2023 11:19:51</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="1">1</span></td>
+<td><span title="207572 - SANDRO RAPHAEL SANTOS MOURA  ">207572 - SANDRO RAPHAEL SANTOS MOURA  </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">22/01/2023 09:51:57</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979833714">979833714</span></td>
+<td><span title="1">1</span></td>
+<td><span title="43 - VAZAMENTO DE AGUA">43 - VAZAMENTO DE AGUA</span></td>
+<td><span title="3 - VAZAMENTO NO HIDROMETRO">3 - VAZAMENTO NO HIDROMETRO</span></td>
+<td><span title="290 - VAZAMENTO NO HIDROMETRO">290 - VAZAMENTO NO HIDROMETRO</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="210A - JOSEILTON JESUS DOS SANTOS">210A - JOSEILTON JESUS DOS SANTOS</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="13 - ITINGA">13 - ITINGA</span></td>
+<td><span title="404422 - RU ZULMIRA S FRAGA">404422 - RU ZULMIRA S FRAGA</span></td>
+<td><span class="">22/01/2023 10:50:00</span></td>
+<td><span class="">22/01/2023 11:18:00</span></td>
+<td><span class="">22/01/2023 11:24:47</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="1">1</span></td>
+<td><span title="207572 - SANDRO RAPHAEL SANTOS MOURA  ">207572 - SANDRO RAPHAEL SANTOS MOURA  </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">22/01/2023 10:07:49</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979833958">979833958</span></td>
+<td><span title="1">1</span></td>
+<td><span title="25 - MANUTENCAO DE ESGOTO">25 - MANUTENCAO DE ESGOTO</span></td>
+<td><span title="2 - EXTRAVASAMENTO DE ESGOTO RAMAL - CI">2 - EXTRAVASAMENTO DE ESGOTO RAMAL - CI</span></td>
+<td><span title="438 - DES RED ESG E PVS C/EQUIP">438 - DES RED ESG E PVS C/EQUIP</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="307-E - AILTON DOS SANTOS MACHADO">307-E - AILTON DOS SANTOS MACHADO</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="13 - ITINGA">13 - ITINGA</span></td>
+<td><span title="406115 - RU AUGUSTO G DOS SANTOS">406115 - RU AUGUSTO G DOS SANTOS</span></td>
+<td><span class="">22/01/2023 13:20:00</span></td>
+<td><span class="">22/01/2023 13:50:00</span></td>
+<td><span class="">22/01/2023 14:01:11</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="207572 - SANDRO RAPHAEL SANTOS MOURA  ">207572 - SANDRO RAPHAEL SANTOS MOURA  </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Esgoto">Esgoto</span></td>
+<td><span class="">22/01/2023 10:42:33</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979834043">979834043</span></td>
+<td><span title="1">1</span></td>
+<td><span title="24 - RETIRADA DE ENTULHO/LIMP GERAL">24 - RETIRADA DE ENTULHO/LIMP GERAL</span></td>
+<td><span title="1 - LIMPEZA GERAL">1 - LIMPEZA GERAL</span></td>
+<td><span title="489 - LIMPEZA RUAS E CALCADAS">489 - LIMPEZA RUAS E CALCADAS</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="CMB - CARLOS JUNIOR DA SILVA SANTOS">CMB - CARLOS JUNIOR DA SILVA SANTOS</span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="13 - ITINGA">13 - ITINGA</span></td>
+<td><span title="430784 - RU ARNALDO S SANTOS">430784 - RU ARNALDO S SANTOS</span></td>
+<td><span class="">22/01/2023 10:56:00</span></td>
+<td><span class="">22/01/2023 11:10:00</span></td>
+<td><span class="">22/01/2023 11:16:23</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="207572 - SANDRO RAPHAEL SANTOS MOURA  ">207572 - SANDRO RAPHAEL SANTOS MOURA  </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">22/01/2023 10:54:26</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979834112">979834112</span></td>
+<td><span title="1">1</span></td>
+<td><span title="25 - MANUTENCAO DE ESGOTO">25 - MANUTENCAO DE ESGOTO</span></td>
+<td><span title="1 - EXTRAVASAMENTO DE ESGOTO RUA - PV">1 - EXTRAVASAMENTO DE ESGOTO RUA - PV</span></td>
+<td><span title="438 - DES RED ESG E PVS C/EQUIP">438 - DES RED ESG E PVS C/EQUIP</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="307-E - AILTON DOS SANTOS MACHADO">307-E - AILTON DOS SANTOS MACHADO</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="5 - PORTAO">5 - PORTAO</span></td>
+<td><span title="406328 - RU JOAO QUEIROZ">406328 - RU JOAO QUEIROZ</span></td>
+<td><span class="">22/01/2023 16:00:00</span></td>
+<td><span class="">22/01/2023 16:30:00</span></td>
+<td><span class="">22/01/2023 16:32:04</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="207572 - SANDRO RAPHAEL SANTOS MOURA  ">207572 - SANDRO RAPHAEL SANTOS MOURA  </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Esgoto">Esgoto</span></td>
+<td><span class="">22/01/2023 11:05:11</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979834655">979834655</span></td>
+<td><span title="1">1</span></td>
+<td><span title="45 - VERIFICACAO DE FALTA DE AGUA">45 - VERIFICACAO DE FALTA DE AGUA</span></td>
+<td><span title="2 - FALTA DE AGUA NA RUA / LOGRADOURO">2 - FALTA DE AGUA NA RUA / LOGRADOURO</span></td>
+<td><span title="365 - VERIF FALTA AGUA RUA">365 - VERIF FALTA AGUA RUA</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="210A - JOSEILTON JESUS DOS SANTOS">210A - JOSEILTON JESUS DOS SANTOS</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="19 - JAMBEIRO">19 - JAMBEIRO</span></td>
+<td><span title="410066 - AV PROGRESSO">410066 - AV PROGRESSO</span></td>
+<td><span class="">22/01/2023 14:00:00</span></td>
+<td><span class="">22/01/2023 14:35:00</span></td>
+<td><span class="">22/01/2023 14:41:30</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="207572 - SANDRO RAPHAEL SANTOS MOURA  ">207572 - SANDRO RAPHAEL SANTOS MOURA  </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">22/01/2023 13:35:42</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979834678">979834678</span></td>
+<td><span title="1">1</span></td>
+<td><span title="24 - RETIRADA DE ENTULHO/LIMP GERAL">24 - RETIRADA DE ENTULHO/LIMP GERAL</span></td>
+<td><span title="1 - LIMPEZA GERAL">1 - LIMPEZA GERAL</span></td>
+<td><span title="489 - LIMPEZA RUAS E CALCADAS">489 - LIMPEZA RUAS E CALCADAS</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="CMB - CARLOS JUNIOR DA SILVA SANTOS">CMB - CARLOS JUNIOR DA SILVA SANTOS</span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="1 - IPITANGA">1 - IPITANGA</span></td>
+<td><span title="401334 - RU DRA LIGIA DANTAS S COSTA">401334 - RU DRA LIGIA DANTAS S COSTA</span></td>
+<td><span class="">22/01/2023 13:15:00</span></td>
+<td><span class="">22/01/2023 13:25:00</span></td>
+<td><span class="">22/01/2023 13:48:41</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="207572 - SANDRO RAPHAEL SANTOS MOURA  ">207572 - SANDRO RAPHAEL SANTOS MOURA  </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">22/01/2023 12:44:17</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979835062">979835062</span></td>
+<td><span title="1">1</span></td>
+<td><span title="25 - MANUTENCAO DE ESGOTO">25 - MANUTENCAO DE ESGOTO</span></td>
+<td><span title="3 - LIMPEZA GERAL">3 - LIMPEZA GERAL</span></td>
+<td><span title="578 - RETIRADA EXPURGO ESGOTO">578 - RETIRADA EXPURGO ESGOTO</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="222E - GILVANDO DE SOUZA SANTOS">222E - GILVANDO DE SOUZA SANTOS</span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="13 - ITINGA">13 - ITINGA</span></td>
+<td><span title="404511 - RU CLAUDIO R DE OLIVEIRA">404511 - RU CLAUDIO R DE OLIVEIRA</span></td>
+<td><span class="">22/01/2023 13:45:00</span></td>
+<td><span class="">22/01/2023 14:00:00</span></td>
+<td><span class="">22/01/2023 14:02:39</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="207572 - SANDRO RAPHAEL SANTOS MOURA  ">207572 - SANDRO RAPHAEL SANTOS MOURA  </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Esgoto">Esgoto</span></td>
+<td><span class="">22/01/2023 13:41:37</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979835126">979835126</span></td>
+<td><span title="1">1</span></td>
+<td><span title="25 - MANUTENCAO DE ESGOTO">25 - MANUTENCAO DE ESGOTO</span></td>
+<td><span title="4 - EXTRAVASAMENTO - RETORNO IMOVEL">4 - EXTRAVASAMENTO - RETORNO IMOVEL</span></td>
+<td><span title="440 - DES RAM PREDI ESG C/EQUIP">440 - DES RAM PREDI ESG C/EQUIP</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="307-E - AILTON DOS SANTOS MACHADO">307-E - AILTON DOS SANTOS MACHADO</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="13 - ITINGA">13 - ITINGA</span></td>
+<td><span title="413413 - RU SAO FELIX">413413 - RU SAO FELIX</span></td>
+<td><span class="">22/01/2023 14:00:00</span></td>
+<td><span class="">22/01/2023 14:50:00</span></td>
+<td><span class="">22/01/2023 15:09:48</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="207572 - SANDRO RAPHAEL SANTOS MOURA  ">207572 - SANDRO RAPHAEL SANTOS MOURA  </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Esgoto">Esgoto</span></td>
+<td><span class="">22/01/2023 13:53:30</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979835600">979835600</span></td>
+<td><span title="1">1</span></td>
+<td><span title="43 - VAZAMENTO DE AGUA">43 - VAZAMENTO DE AGUA</span></td>
+<td><span title="3 - VAZAMENTO NO HIDROMETRO">3 - VAZAMENTO NO HIDROMETRO</span></td>
+<td><span title="290 - VAZAMENTO NO HIDROMETRO">290 - VAZAMENTO NO HIDROMETRO</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="218A - JILTON RENILTON DE MELO">218A - JILTON RENILTON DE MELO</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="37 - VIDA NOVA">37 - VIDA NOVA</span></td>
+<td><span title="402829 - RU NILZETE O SOUZA">402829 - RU NILZETE O SOUZA</span></td>
+<td><span class="">22/01/2023 15:12:00</span></td>
+<td><span class="">22/01/2023 15:24:00</span></td>
+<td><span class="">22/01/2023 15:27:42</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="1">1</span></td>
+<td><span title="207572 - SANDRO RAPHAEL SANTOS MOURA  ">207572 - SANDRO RAPHAEL SANTOS MOURA  </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">22/01/2023 14:49:59</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979835922">979835922</span></td>
+<td><span title="1">1</span></td>
+<td><span title="25 - MANUTENCAO DE ESGOTO">25 - MANUTENCAO DE ESGOTO</span></td>
+<td><span title="15 - COLOCACAO OU VEDACAO TAMPA PV">15 - COLOCACAO OU VEDACAO TAMPA PV</span></td>
+<td><span title="470 - REP E/OU VEDACAO TAMPA CI">470 - REP E/OU VEDACAO TAMPA CI</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="222E - GILVANDO DE SOUZA SANTOS">222E - GILVANDO DE SOUZA SANTOS</span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="700 - LAURO DE FREITAS">700 - LAURO DE FREITAS</span></td>
+<td><span title="13 - ITINGA">13 - ITINGA</span></td>
+<td><span title="413413 - RU SAO FELIX">413413 - RU SAO FELIX</span></td>
+<td><span class="">22/01/2023 15:20:00</span></td>
+<td><span class="">22/01/2023 16:10:00</span></td>
+<td><span class="">22/01/2023 16:17:08</span></td>
+<td><span title="0 - NAO INFORMADO">0 - NAO INFORMADO</span></td>
+<td><span title="Concluída Executada">Concluída Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="207572 - SANDRO RAPHAEL SANTOS MOURA  ">207572 - SANDRO RAPHAEL SANTOS MOURA  </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Esgoto">Esgoto</span></td>
+<td><span class="">22/01/2023 15:11:39</span></td>
+</tr>
+</tbody>
+</table>
+</body></html>

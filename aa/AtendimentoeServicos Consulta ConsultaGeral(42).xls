@@ -1,0 +1,1580 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><!--[if gte mso 9]><xml><x:ExcelWorkbook><x:ExcelWorksheets><x:ExcelWorksheet><x:Name>SCI Web</x:Name><x:WorksheetOptions><x:DisplayGridlines/></x:WorksheetOptions></x:ExcelWorksheet></x:ExcelWorksheets></x:ExcelWorkbook></xml><![endif]--></head><body><table><thead><tr><th colspan="5">EMBASA - Empresa Baiana de Águas e Saneamento</th><th>10/03/2023 11:44:36</th></tr><tr><th colspan="2">Atendimento e Serviços > Consulta > Consulta Geral</th></tr><tr><th colspan="1">Filtro</th></tr></thead><tbody><tr><td>dataTipo</td><td>ENCERRAMENTO</td><td>data</td><td>21/01/2023 00:00:00</td><td>ordemServicoUnidadeAtualId</td><td>88880068</td></tr><tr><td>ordemServicoUnidadeAtualSubordinadas</td><td>false</td><td>solicitacaoLocalidadeId</td><td>900</td><td>exibirVinculadas</td><td>N</td></tr><tr><td>ordemServicoSituacao</td><td>[CONCLUIDA_NAOEXECUTADA]</td><td></td><td></td><td></td><td></td></tr><tr><td colspan='6'></td></tr></tbody></table>
+
+
+	<table id="form-grid-grid" class="cc-table cc-table-main">
+<caption>
+						
+							<label id="form-grid-grid-exportBtn-exportarxls" title="Exportar resultado da consulta para Excel" class="cc-table-ui-icon"></label><label title="Alterar colunas visíveis na tabela" class="cc-table-ui-icon"></label>
+
+
+					
+							
+							
+								
+						
+						
+	
+	
+	
+
+						
+
+						</caption><thead>
+<tr>
+
+<th class="cc-table-header" scope="col"></th>
+<th class="cc-table-header " scope="col"><span title="Número da Solicitação de Serviço">SS</span></th>
+<th class="cc-table-header " scope="col"><span title="Número da Ordem de Serviço">OS</span></th>
+<th class="cc-table-header " scope="col"><span title="">Tipo</span></th>
+<th class="cc-table-header " scope="col"><span title="">Especificação</span></th>
+<th class="cc-table-header " scope="col"><span title="">Serviço</span></th>
+<th class="cc-table-header " scope="col"><span title="">Unid Atual (OS)</span></th>
+<th class="cc-table-header " scope="col"><span title="">Equipe</span></th>
+<th class="cc-table-header " scope="col"><span title="">Origem da SS</span></th>
+<th class="cc-table-header " scope="col"><span title="">Localidade</span></th>
+<th class="cc-table-header " scope="col"><span title="">Bairro</span></th>
+<th class="cc-table-header " scope="col"><span title="">Logradouro</span></th>
+<th class="cc-table-header " scope="col"><span title="">Ini do Serviço</span></th>
+<th class="cc-table-header " scope="col"><span title="">Fim do Serviço</span></th>
+<th class="cc-table-header " scope="col"><span title="">Encerramento</span></th>
+<th class="cc-table-header " scope="col"><span title="">Mot de Encerr da OS</span></th>
+<th class="cc-table-header " scope="col"><span title="Situação da Ordem de Serviço">Sit da OS</span></th>
+<th class="cc-table-header " scope="col"><span title="Quantidade de registros de insumos">Insumos</span></th>
+<th class="cc-table-header " scope="col"><span title="Funcionário que Encerrou a OS">Func. Encerrou OS</span></th>
+<th class="cc-table-header " scope="col"><span title="">SS Atendida</span></th>
+<th class="cc-table-header " scope="col"><span title="">Tipo de Operação</span></th>
+<th class="cc-table-header " scope="col"><span title="Data/Hora da última tramitação da OS">Data/Hora Última Tramitação da OS</span></th>
+</tr>
+</thead>
+<tfoot>
+
+</tfoot>
+<tbody>
+<tr>
+
+<td></td>
+<td><span title="979580582">979580582</span></td>
+<td><span title="2">2</span></td>
+<td><span title="26 - MANUTENCAO DE HIDROMETRO">26 - MANUTENCAO DE HIDROMETRO</span></td>
+<td><span title="4 - SUBSTITUICAO DE HIDROMETRO">4 - SUBSTITUICAO DE HIDROMETRO</span></td>
+<td><span title="37 - VISITA">37 - VISITA</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="228-A - IVAN HONORATO DOS SANTOS">228-A - IVAN HONORATO DOS SANTOS</span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="18 - ITAPUA">18 - ITAPUA</span></td>
+<td><span title="136979 - RU LUIS EDUARDO MAGALHAES">136979 - RU LUIS EDUARDO MAGALHAES</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">21/01/2023 09:08:31</span></td>
+<td><span title="8 - NAO PERMITIDO PELO USUARIO">8 - NAO PERMITIDO PELO USUARIO</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="33620 - PATRICIA DA SILVA SANTOS     ">33620 - PATRICIA DA SILVA SANTOS     </span></td>
+<td><span title="Não">Não</span></td>
+<td><span title="Comercial">Comercial</span></td>
+<td><span class="">18/01/2023 13:39:00</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979753029">979753029</span></td>
+<td><span title="1">1</span></td>
+<td><span title="57 - ANALISE ANORMALIDADE LEIT/CONS">57 - ANALISE ANORMALIDADE LEIT/CONS</span></td>
+<td><span title="2 - REVISAO DE LEITURA">2 - REVISAO DE LEITURA</span></td>
+<td><span title="114 - REVISAR LEITURA">114 - REVISAR LEITURA</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="142-A - LOURIVAL NERI ANDRADE NETO">142-A - LOURIVAL NERI ANDRADE NETO</span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="15 - PITUBA">15 - PITUBA</span></td>
+<td><span title="15020 - RU TERRITORIO DO ACRE">15020 - RU TERRITORIO DO ACRE</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">21/01/2023 08:31:29</span></td>
+<td><span title="20 - INVIABILIDADE ACESSO LOCAL">20 - INVIABILIDADE ACESSO LOCAL</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="33620 - PATRICIA DA SILVA SANTOS     ">33620 - PATRICIA DA SILVA SANTOS     </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Comercial">Comercial</span></td>
+<td><span class="">19/01/2023 16:18:42</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979753035">979753035</span></td>
+<td><span title="1">1</span></td>
+<td><span title="57 - ANALISE ANORMALIDADE LEIT/CONS">57 - ANALISE ANORMALIDADE LEIT/CONS</span></td>
+<td><span title="2 - REVISAO DE LEITURA">2 - REVISAO DE LEITURA</span></td>
+<td><span title="114 - REVISAR LEITURA">114 - REVISAR LEITURA</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="142-A - LOURIVAL NERI ANDRADE NETO">142-A - LOURIVAL NERI ANDRADE NETO</span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="15 - PITUBA">15 - PITUBA</span></td>
+<td><span title="34319 - RU ARTUR GOMES DE CARVALHO">34319 - RU ARTUR GOMES DE CARVALHO</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">21/01/2023 08:30:19</span></td>
+<td><span title="20 - INVIABILIDADE ACESSO LOCAL">20 - INVIABILIDADE ACESSO LOCAL</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="33620 - PATRICIA DA SILVA SANTOS     ">33620 - PATRICIA DA SILVA SANTOS     </span></td>
+<td><span title="Não">Não</span></td>
+<td><span title="Comercial">Comercial</span></td>
+<td><span class="">19/01/2023 16:18:42</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979754005">979754005</span></td>
+<td><span title="1">1</span></td>
+<td><span title="57 - ANALISE ANORMALIDADE LEIT/CONS">57 - ANALISE ANORMALIDADE LEIT/CONS</span></td>
+<td><span title="2 - REVISAO DE LEITURA">2 - REVISAO DE LEITURA</span></td>
+<td><span title="114 - REVISAR LEITURA">114 - REVISAR LEITURA</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="EQ146A - ELIELSON DA CRUZ DOS SANTOS">EQ146A - ELIELSON DA CRUZ DOS SANTOS</span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="64 - SAO CRISTOVAO">64 - SAO CRISTOVAO</span></td>
+<td><span title="118830 - TV JARDIM ALVORADA  1A">118830 - TV JARDIM ALVORADA  1A</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">21/01/2023 08:29:33</span></td>
+<td><span title="88 - AREA DE RISCO">88 - AREA DE RISCO</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="33620 - PATRICIA DA SILVA SANTOS     ">33620 - PATRICIA DA SILVA SANTOS     </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Comercial">Comercial</span></td>
+<td><span class="">19/01/2023 11:05:49</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979754178">979754178</span></td>
+<td><span title="1">1</span></td>
+<td><span title="57 - ANALISE ANORMALIDADE LEIT/CONS">57 - ANALISE ANORMALIDADE LEIT/CONS</span></td>
+<td><span title="2 - REVISAO DE LEITURA">2 - REVISAO DE LEITURA</span></td>
+<td><span title="114 - REVISAR LEITURA">114 - REVISAR LEITURA</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="142-A - LOURIVAL NERI ANDRADE NETO">142-A - LOURIVAL NERI ANDRADE NETO</span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="115 - IMBUI">115 - IMBUI</span></td>
+<td><span title="36168 - RU DA BOLANDEIRA">36168 - RU DA BOLANDEIRA</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">21/01/2023 08:28:27</span></td>
+<td><span title="20 - INVIABILIDADE ACESSO LOCAL">20 - INVIABILIDADE ACESSO LOCAL</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="33620 - PATRICIA DA SILVA SANTOS     ">33620 - PATRICIA DA SILVA SANTOS     </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Comercial">Comercial</span></td>
+<td><span class="">19/01/2023 16:18:51</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979754255">979754255</span></td>
+<td><span title="1">1</span></td>
+<td><span title="57 - ANALISE ANORMALIDADE LEIT/CONS">57 - ANALISE ANORMALIDADE LEIT/CONS</span></td>
+<td><span title="2 - REVISAO DE LEITURA">2 - REVISAO DE LEITURA</span></td>
+<td><span title="114 - REVISAR LEITURA">114 - REVISAR LEITURA</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="142-A - LOURIVAL NERI ANDRADE NETO">142-A - LOURIVAL NERI ANDRADE NETO</span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="16 - BOCA DO RIO">16 - BOCA DO RIO</span></td>
+<td><span title="112786 - TV RIO DAS PEDRAS  2A">112786 - TV RIO DAS PEDRAS  2A</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">21/01/2023 08:27:02</span></td>
+<td><span title="11 - IMOVEL NAO LOCALIZADO">11 - IMOVEL NAO LOCALIZADO</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="33620 - PATRICIA DA SILVA SANTOS     ">33620 - PATRICIA DA SILVA SANTOS     </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Comercial">Comercial</span></td>
+<td><span class="">19/01/2023 16:18:51</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979754256">979754256</span></td>
+<td><span title="1">1</span></td>
+<td><span title="57 - ANALISE ANORMALIDADE LEIT/CONS">57 - ANALISE ANORMALIDADE LEIT/CONS</span></td>
+<td><span title="2 - REVISAO DE LEITURA">2 - REVISAO DE LEITURA</span></td>
+<td><span title="114 - REVISAR LEITURA">114 - REVISAR LEITURA</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="142-A - LOURIVAL NERI ANDRADE NETO">142-A - LOURIVAL NERI ANDRADE NETO</span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="16 - BOCA DO RIO">16 - BOCA DO RIO</span></td>
+<td><span title="23104 - RU FERNANDO CARDOSO">23104 - RU FERNANDO CARDOSO</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">21/01/2023 08:26:18</span></td>
+<td><span title="20 - INVIABILIDADE ACESSO LOCAL">20 - INVIABILIDADE ACESSO LOCAL</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="33620 - PATRICIA DA SILVA SANTOS     ">33620 - PATRICIA DA SILVA SANTOS     </span></td>
+<td><span title="Não">Não</span></td>
+<td><span title="Comercial">Comercial</span></td>
+<td><span class="">19/01/2023 16:18:51</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979754259">979754259</span></td>
+<td><span title="1">1</span></td>
+<td><span title="57 - ANALISE ANORMALIDADE LEIT/CONS">57 - ANALISE ANORMALIDADE LEIT/CONS</span></td>
+<td><span title="2 - REVISAO DE LEITURA">2 - REVISAO DE LEITURA</span></td>
+<td><span title="114 - REVISAR LEITURA">114 - REVISAR LEITURA</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="142-A - LOURIVAL NERI ANDRADE NETO">142-A - LOURIVAL NERI ANDRADE NETO</span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="16 - BOCA DO RIO">16 - BOCA DO RIO</span></td>
+<td><span title="25182 - RU CLEMENTE MARIANI">25182 - RU CLEMENTE MARIANI</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">21/01/2023 08:25:40</span></td>
+<td><span title="20 - INVIABILIDADE ACESSO LOCAL">20 - INVIABILIDADE ACESSO LOCAL</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="33620 - PATRICIA DA SILVA SANTOS     ">33620 - PATRICIA DA SILVA SANTOS     </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Comercial">Comercial</span></td>
+<td><span class="">19/01/2023 16:18:52</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979754326">979754326</span></td>
+<td><span title="1">1</span></td>
+<td><span title="57 - ANALISE ANORMALIDADE LEIT/CONS">57 - ANALISE ANORMALIDADE LEIT/CONS</span></td>
+<td><span title="2 - REVISAO DE LEITURA">2 - REVISAO DE LEITURA</span></td>
+<td><span title="114 - REVISAR LEITURA">114 - REVISAR LEITURA</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="142-A - LOURIVAL NERI ANDRADE NETO">142-A - LOURIVAL NERI ANDRADE NETO</span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="141 - PITUACU">141 - PITUACU</span></td>
+<td><span title="149515 - PC IGOR">149515 - PC IGOR</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">21/01/2023 08:24:49</span></td>
+<td><span title="20 - INVIABILIDADE ACESSO LOCAL">20 - INVIABILIDADE ACESSO LOCAL</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="33620 - PATRICIA DA SILVA SANTOS     ">33620 - PATRICIA DA SILVA SANTOS     </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Comercial">Comercial</span></td>
+<td><span class="">19/01/2023 16:18:52</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979757786">979757786</span></td>
+<td><span title="1">1</span></td>
+<td><span title="57 - ANALISE ANORMALIDADE LEIT/CONS">57 - ANALISE ANORMALIDADE LEIT/CONS</span></td>
+<td><span title="2 - REVISAO DE LEITURA">2 - REVISAO DE LEITURA</span></td>
+<td><span title="114 - REVISAR LEITURA">114 - REVISAR LEITURA</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="119A - DELSON ALVES DA PAXAO">119A - DELSON ALVES DA PAXAO</span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="18 - ITAPUA">18 - ITAPUA</span></td>
+<td><span title="72130 - RU PASSARGADA">72130 - RU PASSARGADA</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">21/01/2023 08:23:52</span></td>
+<td><span title="20 - INVIABILIDADE ACESSO LOCAL">20 - INVIABILIDADE ACESSO LOCAL</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="33620 - PATRICIA DA SILVA SANTOS     ">33620 - PATRICIA DA SILVA SANTOS     </span></td>
+<td><span title="Não">Não</span></td>
+<td><span title="Comercial">Comercial</span></td>
+<td><span class="">19/01/2023 16:19:01</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979757792">979757792</span></td>
+<td><span title="1">1</span></td>
+<td><span title="57 - ANALISE ANORMALIDADE LEIT/CONS">57 - ANALISE ANORMALIDADE LEIT/CONS</span></td>
+<td><span title="2 - REVISAO DE LEITURA">2 - REVISAO DE LEITURA</span></td>
+<td><span title="114 - REVISAR LEITURA">114 - REVISAR LEITURA</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="119A - DELSON ALVES DA PAXAO">119A - DELSON ALVES DA PAXAO</span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="18 - ITAPUA">18 - ITAPUA</span></td>
+<td><span title="72130 - RU PASSARGADA">72130 - RU PASSARGADA</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">21/01/2023 08:23:03</span></td>
+<td><span title="20 - INVIABILIDADE ACESSO LOCAL">20 - INVIABILIDADE ACESSO LOCAL</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="33620 - PATRICIA DA SILVA SANTOS     ">33620 - PATRICIA DA SILVA SANTOS     </span></td>
+<td><span title="Não">Não</span></td>
+<td><span title="Comercial">Comercial</span></td>
+<td><span class="">19/01/2023 16:19:09</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979757796">979757796</span></td>
+<td><span title="1">1</span></td>
+<td><span title="57 - ANALISE ANORMALIDADE LEIT/CONS">57 - ANALISE ANORMALIDADE LEIT/CONS</span></td>
+<td><span title="2 - REVISAO DE LEITURA">2 - REVISAO DE LEITURA</span></td>
+<td><span title="114 - REVISAR LEITURA">114 - REVISAR LEITURA</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="119A - DELSON ALVES DA PAXAO">119A - DELSON ALVES DA PAXAO</span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="117 - STELLA MARIS">117 - STELLA MARIS</span></td>
+<td><span title="51515 - AA PRAIA DE ITACARE">51515 - AA PRAIA DE ITACARE</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">21/01/2023 08:22:10</span></td>
+<td><span title="343 - HIDROMETRO INTERNO">343 - HIDROMETRO INTERNO</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="33620 - PATRICIA DA SILVA SANTOS     ">33620 - PATRICIA DA SILVA SANTOS     </span></td>
+<td><span title="Não">Não</span></td>
+<td><span title="Comercial">Comercial</span></td>
+<td><span class="">19/01/2023 16:19:10</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979757798">979757798</span></td>
+<td><span title="1">1</span></td>
+<td><span title="57 - ANALISE ANORMALIDADE LEIT/CONS">57 - ANALISE ANORMALIDADE LEIT/CONS</span></td>
+<td><span title="2 - REVISAO DE LEITURA">2 - REVISAO DE LEITURA</span></td>
+<td><span title="114 - REVISAR LEITURA">114 - REVISAR LEITURA</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="119A - DELSON ALVES DA PAXAO">119A - DELSON ALVES DA PAXAO</span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="117 - STELLA MARIS">117 - STELLA MARIS</span></td>
+<td><span title="51256 - AA PRAIA DE GUARATUBA">51256 - AA PRAIA DE GUARATUBA</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">21/01/2023 08:21:26</span></td>
+<td><span title="343 - HIDROMETRO INTERNO">343 - HIDROMETRO INTERNO</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="33620 - PATRICIA DA SILVA SANTOS     ">33620 - PATRICIA DA SILVA SANTOS     </span></td>
+<td><span title="Não">Não</span></td>
+<td><span title="Comercial">Comercial</span></td>
+<td><span class="">19/01/2023 16:19:10</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979757800">979757800</span></td>
+<td><span title="1">1</span></td>
+<td><span title="57 - ANALISE ANORMALIDADE LEIT/CONS">57 - ANALISE ANORMALIDADE LEIT/CONS</span></td>
+<td><span title="2 - REVISAO DE LEITURA">2 - REVISAO DE LEITURA</span></td>
+<td><span title="114 - REVISAR LEITURA">114 - REVISAR LEITURA</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="119A - DELSON ALVES DA PAXAO">119A - DELSON ALVES DA PAXAO</span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="117 - STELLA MARIS">117 - STELLA MARIS</span></td>
+<td><span title="165723 - RU UBATUBA">165723 - RU UBATUBA</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">21/01/2023 08:15:36</span></td>
+<td><span title="20 - INVIABILIDADE ACESSO LOCAL">20 - INVIABILIDADE ACESSO LOCAL</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="33620 - PATRICIA DA SILVA SANTOS     ">33620 - PATRICIA DA SILVA SANTOS     </span></td>
+<td><span title="Não">Não</span></td>
+<td><span title="Comercial">Comercial</span></td>
+<td><span class="">19/01/2023 16:19:10</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979757801">979757801</span></td>
+<td><span title="1">1</span></td>
+<td><span title="57 - ANALISE ANORMALIDADE LEIT/CONS">57 - ANALISE ANORMALIDADE LEIT/CONS</span></td>
+<td><span title="2 - REVISAO DE LEITURA">2 - REVISAO DE LEITURA</span></td>
+<td><span title="114 - REVISAR LEITURA">114 - REVISAR LEITURA</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="119A - DELSON ALVES DA PAXAO">119A - DELSON ALVES DA PAXAO</span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="18 - ITAPUA">18 - ITAPUA</span></td>
+<td><span title="72130 - RU PASSARGADA">72130 - RU PASSARGADA</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">21/01/2023 08:14:44</span></td>
+<td><span title="20 - INVIABILIDADE ACESSO LOCAL">20 - INVIABILIDADE ACESSO LOCAL</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="33620 - PATRICIA DA SILVA SANTOS     ">33620 - PATRICIA DA SILVA SANTOS     </span></td>
+<td><span title="Não">Não</span></td>
+<td><span title="Comercial">Comercial</span></td>
+<td><span class="">19/01/2023 16:19:10</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979761748">979761748</span></td>
+<td><span title="1">1</span></td>
+<td><span title="57 - ANALISE ANORMALIDADE LEIT/CONS">57 - ANALISE ANORMALIDADE LEIT/CONS</span></td>
+<td><span title="2 - REVISAO DE LEITURA">2 - REVISAO DE LEITURA</span></td>
+<td><span title="114 - REVISAR LEITURA">114 - REVISAR LEITURA</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="119A - DELSON ALVES DA PAXAO">119A - DELSON ALVES DA PAXAO</span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="64 - SAO CRISTOVAO">64 - SAO CRISTOVAO</span></td>
+<td><span title="137827 - RU DA IMBUIA">137827 - RU DA IMBUIA</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">21/01/2023 08:13:26</span></td>
+<td><span title="20 - INVIABILIDADE ACESSO LOCAL">20 - INVIABILIDADE ACESSO LOCAL</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="33620 - PATRICIA DA SILVA SANTOS     ">33620 - PATRICIA DA SILVA SANTOS     </span></td>
+<td><span title="Não">Não</span></td>
+<td><span title="Comercial">Comercial</span></td>
+<td><span class="">19/01/2023 16:19:11</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979761749">979761749</span></td>
+<td><span title="1">1</span></td>
+<td><span title="57 - ANALISE ANORMALIDADE LEIT/CONS">57 - ANALISE ANORMALIDADE LEIT/CONS</span></td>
+<td><span title="2 - REVISAO DE LEITURA">2 - REVISAO DE LEITURA</span></td>
+<td><span title="114 - REVISAR LEITURA">114 - REVISAR LEITURA</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="119A - DELSON ALVES DA PAXAO">119A - DELSON ALVES DA PAXAO</span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="64 - SAO CRISTOVAO">64 - SAO CRISTOVAO</span></td>
+<td><span title="49022 - RU SAO GERALDO">49022 - RU SAO GERALDO</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">21/01/2023 08:12:43</span></td>
+<td><span title="343 - HIDROMETRO INTERNO">343 - HIDROMETRO INTERNO</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="33620 - PATRICIA DA SILVA SANTOS     ">33620 - PATRICIA DA SILVA SANTOS     </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Comercial">Comercial</span></td>
+<td><span class="">19/01/2023 16:19:11</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979764840">979764840</span></td>
+<td><span title="1">1</span></td>
+<td><span title="57 - ANALISE ANORMALIDADE LEIT/CONS">57 - ANALISE ANORMALIDADE LEIT/CONS</span></td>
+<td><span title="2 - REVISAO DE LEITURA">2 - REVISAO DE LEITURA</span></td>
+<td><span title="114 - REVISAR LEITURA">114 - REVISAR LEITURA</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="EQ146A - ELIELSON DA CRUZ DOS SANTOS">EQ146A - ELIELSON DA CRUZ DOS SANTOS</span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="119 - MUSSURUNGA">119 - MUSSURUNGA</span></td>
+<td><span title="182350 - RU SAO JORGE DE BAIXO">182350 - RU SAO JORGE DE BAIXO</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">21/01/2023 08:07:23</span></td>
+<td><span title="88 - AREA DE RISCO">88 - AREA DE RISCO</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="33620 - PATRICIA DA SILVA SANTOS     ">33620 - PATRICIA DA SILVA SANTOS     </span></td>
+<td><span title="Não">Não</span></td>
+<td><span title="Comercial">Comercial</span></td>
+<td><span class="">19/01/2023 16:19:11</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979765083">979765083</span></td>
+<td><span title="1">1</span></td>
+<td><span title="57 - ANALISE ANORMALIDADE LEIT/CONS">57 - ANALISE ANORMALIDADE LEIT/CONS</span></td>
+<td><span title="2 - REVISAO DE LEITURA">2 - REVISAO DE LEITURA</span></td>
+<td><span title="114 - REVISAR LEITURA">114 - REVISAR LEITURA</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="119A - DELSON ALVES DA PAXAO">119A - DELSON ALVES DA PAXAO</span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="64 - SAO CRISTOVAO">64 - SAO CRISTOVAO</span></td>
+<td><span title="5785 - AV ALIOMAR BALEEIRO">5785 - AV ALIOMAR BALEEIRO</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">21/01/2023 08:06:20</span></td>
+<td><span title="21 - LIGACAO NAO LOCALIZADA">21 - LIGACAO NAO LOCALIZADA</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="33620 - PATRICIA DA SILVA SANTOS     ">33620 - PATRICIA DA SILVA SANTOS     </span></td>
+<td><span title="Não">Não</span></td>
+<td><span title="Comercial">Comercial</span></td>
+<td><span class="">19/01/2023 16:19:22</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979790838">979790838</span></td>
+<td><span title="1">1</span></td>
+<td><span title="57 - ANALISE ANORMALIDADE LEIT/CONS">57 - ANALISE ANORMALIDADE LEIT/CONS</span></td>
+<td><span title="2 - REVISAO DE LEITURA">2 - REVISAO DE LEITURA</span></td>
+<td><span title="114 - REVISAR LEITURA">114 - REVISAR LEITURA</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="149-A - CARLOS FELIPE SANTANA FERNADE">149-A - CARLOS FELIPE SANTANA FERNADE</span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="117 - STELLA MARIS">117 - STELLA MARIS</span></td>
+<td><span title="91142 - AV DAS CASUARINAS">91142 - AV DAS CASUARINAS</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">21/01/2023 08:02:15</span></td>
+<td><span title="20 - INVIABILIDADE ACESSO LOCAL">20 - INVIABILIDADE ACESSO LOCAL</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="33620 - PATRICIA DA SILVA SANTOS     ">33620 - PATRICIA DA SILVA SANTOS     </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Comercial">Comercial</span></td>
+<td><span class="">20/01/2023 11:05:52</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979791093">979791093</span></td>
+<td><span title="1">1</span></td>
+<td><span title="57 - ANALISE ANORMALIDADE LEIT/CONS">57 - ANALISE ANORMALIDADE LEIT/CONS</span></td>
+<td><span title="2 - REVISAO DE LEITURA">2 - REVISAO DE LEITURA</span></td>
+<td><span title="114 - REVISAR LEITURA">114 - REVISAR LEITURA</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="149-A - CARLOS FELIPE SANTANA FERNADE">149-A - CARLOS FELIPE SANTANA FERNADE</span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="18 - ITAPUA">18 - ITAPUA</span></td>
+<td><span title="72130 - RU PASSARGADA">72130 - RU PASSARGADA</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">21/01/2023 08:02:53</span></td>
+<td><span title="343 - HIDROMETRO INTERNO">343 - HIDROMETRO INTERNO</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="33620 - PATRICIA DA SILVA SANTOS     ">33620 - PATRICIA DA SILVA SANTOS     </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Comercial">Comercial</span></td>
+<td><span class="">20/01/2023 11:05:17</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979791232">979791232</span></td>
+<td><span title="1">1</span></td>
+<td><span title="57 - ANALISE ANORMALIDADE LEIT/CONS">57 - ANALISE ANORMALIDADE LEIT/CONS</span></td>
+<td><span title="2 - REVISAO DE LEITURA">2 - REVISAO DE LEITURA</span></td>
+<td><span title="114 - REVISAR LEITURA">114 - REVISAR LEITURA</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="149-A - CARLOS FELIPE SANTANA FERNADE">149-A - CARLOS FELIPE SANTANA FERNADE</span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="18 - ITAPUA">18 - ITAPUA</span></td>
+<td><span title="49502 - RU DA BRISA">49502 - RU DA BRISA</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">21/01/2023 08:03:41</span></td>
+<td><span title="21 - LIGACAO NAO LOCALIZADA">21 - LIGACAO NAO LOCALIZADA</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="33620 - PATRICIA DA SILVA SANTOS     ">33620 - PATRICIA DA SILVA SANTOS     </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Comercial">Comercial</span></td>
+<td><span class="">20/01/2023 11:04:48</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979803962">979803962</span></td>
+<td><span title="1">1</span></td>
+<td><span title="47 - VERIFICACAO DE PRESSAO">47 - VERIFICACAO DE PRESSAO</span></td>
+<td><span title="1 - VERIFICACAO DE PRESSAO">1 - VERIFICACAO DE PRESSAO</span></td>
+<td><span title="363 - VERIF BAIXA DE PRESSAO">363 - VERIF BAIXA DE PRESSAO</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="149-A - CARLOS FELIPE SANTANA FERNADE">149-A - CARLOS FELIPE SANTANA FERNADE</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="64 - SAO CRISTOVAO">64 - SAO CRISTOVAO</span></td>
+<td><span title="49138 - RU ALTO DA BOA VISTA">49138 - RU ALTO DA BOA VISTA</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">21/01/2023 15:13:12</span></td>
+<td><span title="18 - SERVICO EXECUTADO P/ OUTRA OS">18 - SERVICO EXECUTADO P/ OUTRA OS</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="203553 - DIEGO DE OLIVEIRA FONSECA    ">203553 - DIEGO DE OLIVEIRA FONSECA    </span></td>
+<td><span title="Não">Não</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">20/01/2023 14:57:34</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979805241">979805241</span></td>
+<td><span title="1">1</span></td>
+<td><span title="37 - RECOMPOSICAO DE PAVIMENTO">37 - RECOMPOSICAO DE PAVIMENTO</span></td>
+<td><span title="1 - RECOMPOSICAO DE PAVIMENTO - AGUA">1 - RECOMPOSICAO DE PAVIMENTO - AGUA</span></td>
+<td><span title="85 - RECOMPOS PAVIM PASSEIO">85 - RECOMPOS PAVIM PASSEIO</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="PAV03A - JUBIRACI SOUZA DO NASCIMENTO">PAV03A - JUBIRACI SOUZA DO NASCIMENTO</span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="16 - BOCA DO RIO">16 - BOCA DO RIO</span></td>
+<td><span title="42435 - TV DOM EUGENIO SALES  5A">42435 - TV DOM EUGENIO SALES  5A</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">21/01/2023 11:55:38</span></td>
+<td><span title="9 - NORMALIZADO">9 - NORMALIZADO</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="527688 - THAIANE MATIAS SANTOS        ">527688 - THAIANE MATIAS SANTOS        </span></td>
+<td><span title="Não">Não</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">20/01/2023 15:01:45</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979805294">979805294</span></td>
+<td><span title="1">1</span></td>
+<td><span title="37 - RECOMPOSICAO DE PAVIMENTO">37 - RECOMPOSICAO DE PAVIMENTO</span></td>
+<td><span title="1 - RECOMPOSICAO DE PAVIMENTO - AGUA">1 - RECOMPOSICAO DE PAVIMENTO - AGUA</span></td>
+<td><span title="85 - RECOMPOS PAVIM PASSEIO">85 - RECOMPOS PAVIM PASSEIO</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="PAV03A - JUBIRACI SOUZA DO NASCIMENTO">PAV03A - JUBIRACI SOUZA DO NASCIMENTO</span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="16 - BOCA DO RIO">16 - BOCA DO RIO</span></td>
+<td><span title="155604 - AV DO CAXUNDE">155604 - AV DO CAXUNDE</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">21/01/2023 15:49:22</span></td>
+<td><span title="19 - EQUIPE INADEQUADA P/SERV">19 - EQUIPE INADEQUADA P/SERV</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="527688 - THAIANE MATIAS SANTOS        ">527688 - THAIANE MATIAS SANTOS        </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">20/01/2023 15:03:20</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979761132">979761132</span></td>
+<td><span title="2">2</span></td>
+<td><span title="37 - RECOMPOSICAO DE PAVIMENTO">37 - RECOMPOSICAO DE PAVIMENTO</span></td>
+<td><span title="1 - RECOMPOSICAO DE PAVIMENTO - AGUA">1 - RECOMPOSICAO DE PAVIMENTO - AGUA</span></td>
+<td><span title="85 - RECOMPOS PAVIM PASSEIO">85 - RECOMPOS PAVIM PASSEIO</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="PAV03A - JUBIRACI SOUZA DO NASCIMENTO">PAV03A - JUBIRACI SOUZA DO NASCIMENTO</span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="16 - BOCA DO RIO">16 - BOCA DO RIO</span></td>
+<td><span title="72210 - AV JORGE AMADO">72210 - AV JORGE AMADO</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">21/01/2023 11:54:27</span></td>
+<td><span title="20 - INVIABILIDADE ACESSO LOCAL">20 - INVIABILIDADE ACESSO LOCAL</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="527688 - THAIANE MATIAS SANTOS        ">527688 - THAIANE MATIAS SANTOS        </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">20/01/2023 15:49:23</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979808262">979808262</span></td>
+<td><span title="1">1</span></td>
+<td><span title="25 - MANUTENCAO DE ESGOTO">25 - MANUTENCAO DE ESGOTO</span></td>
+<td><span title="2 - EXTRAVASAMENTO DE ESGOTO RAMAL - CI">2 - EXTRAVASAMENTO DE ESGOTO RAMAL - CI</span></td>
+<td><span title="438 - DES RED ESG E PVS C/EQUIP">438 - DES RED ESG E PVS C/EQUIP</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="309E - JOSE MOREIRA OLIVEIRA">309E - JOSE MOREIRA OLIVEIRA</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="191 - BAIRRO DA PAZ">191 - BAIRRO DA PAZ</span></td>
+<td><span title="151820 - RU MACHADO DE ASSIS">151820 - RU MACHADO DE ASSIS</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">22/01/2023 09:13:16</span></td>
+<td><span title="9 - NORMALIZADO">9 - NORMALIZADO</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="527688 - THAIANE MATIAS SANTOS        ">527688 - THAIANE MATIAS SANTOS        </span></td>
+<td><span title="Não">Não</span></td>
+<td><span title="Esgoto">Esgoto</span></td>
+<td><span class="">20/01/2023 16:00:26</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979813426">979813426</span></td>
+<td><span title="1">1</span></td>
+<td><span title="37 - RECOMPOSICAO DE PAVIMENTO">37 - RECOMPOSICAO DE PAVIMENTO</span></td>
+<td><span title="1 - RECOMPOSICAO DE PAVIMENTO - AGUA">1 - RECOMPOSICAO DE PAVIMENTO - AGUA</span></td>
+<td><span title="483 - REC PAV PEDRA PORTUGUESA">483 - REC PAV PEDRA PORTUGUESA</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="PAV03A - JUBIRACI SOUZA DO NASCIMENTO">PAV03A - JUBIRACI SOUZA DO NASCIMENTO</span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="52 - CAM DAS ARVORES">52 - CAM DAS ARVORES</span></td>
+<td><span title="35102 - RU VARZEA DE SANTO ANTONIO">35102 - RU VARZEA DE SANTO ANTONIO</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">22/01/2023 11:36:14</span></td>
+<td><span title="18 - SERVICO EXECUTADO P/ OUTRA OS">18 - SERVICO EXECUTADO P/ OUTRA OS</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="527688 - THAIANE MATIAS SANTOS        ">527688 - THAIANE MATIAS SANTOS        </span></td>
+<td><span title="Não">Não</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">20/01/2023 17:26:26</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979813656">979813656</span></td>
+<td><span title="1">1</span></td>
+<td><span title="25 - MANUTENCAO DE ESGOTO">25 - MANUTENCAO DE ESGOTO</span></td>
+<td><span title="4 - EXTRAVASAMENTO - RETORNO IMOVEL">4 - EXTRAVASAMENTO - RETORNO IMOVEL</span></td>
+<td><span title="440 - DES RAM PREDI ESG C/EQUIP">440 - DES RAM PREDI ESG C/EQUIP</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="309E - JOSE MOREIRA OLIVEIRA">309E - JOSE MOREIRA OLIVEIRA</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="64 - SAO CRISTOVAO">64 - SAO CRISTOVAO</span></td>
+<td><span title="91622 - PQ SAO CRISTOVAO  VIA OESTE 17">91622 - PQ SAO CRISTOVAO  VIA OESTE 17</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">21/01/2023 11:35:18</span></td>
+<td><span title="9 - NORMALIZADO">9 - NORMALIZADO</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="527688 - THAIANE MATIAS SANTOS        ">527688 - THAIANE MATIAS SANTOS        </span></td>
+<td><span title="Não">Não</span></td>
+<td><span title="Esgoto">Esgoto</span></td>
+<td><span class="">20/01/2023 17:33:39</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979813921">979813921</span></td>
+<td><span title="1">1</span></td>
+<td><span title="37 - RECOMPOSICAO DE PAVIMENTO">37 - RECOMPOSICAO DE PAVIMENTO</span></td>
+<td><span title="1 - RECOMPOSICAO DE PAVIMENTO - AGUA">1 - RECOMPOSICAO DE PAVIMENTO - AGUA</span></td>
+<td><span title="160 - RECOMP PAV ASFALTICO">160 - RECOMP PAV ASFALTICO</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="PAV03A - JUBIRACI SOUZA DO NASCIMENTO">PAV03A - JUBIRACI SOUZA DO NASCIMENTO</span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="233 - CASSANGE">233 - CASSANGE</span></td>
+<td><span title="82771 - TV ALTO DO GIRASSOL 1A">82771 - TV ALTO DO GIRASSOL 1A</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">21/01/2023 15:35:48</span></td>
+<td><span title="18 - SERVICO EXECUTADO P/ OUTRA OS">18 - SERVICO EXECUTADO P/ OUTRA OS</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="527688 - THAIANE MATIAS SANTOS        ">527688 - THAIANE MATIAS SANTOS        </span></td>
+<td><span title="Não">Não</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">20/01/2023 17:41:30</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979813984">979813984</span></td>
+<td><span title="1">1</span></td>
+<td><span title="37 - RECOMPOSICAO DE PAVIMENTO">37 - RECOMPOSICAO DE PAVIMENTO</span></td>
+<td><span title="1 - RECOMPOSICAO DE PAVIMENTO - AGUA">1 - RECOMPOSICAO DE PAVIMENTO - AGUA</span></td>
+<td><span title="160 - RECOMP PAV ASFALTICO">160 - RECOMP PAV ASFALTICO</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="PAV03A - JUBIRACI SOUZA DO NASCIMENTO">PAV03A - JUBIRACI SOUZA DO NASCIMENTO</span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="117 - STELLA MARIS">117 - STELLA MARIS</span></td>
+<td><span title="51493 - AA PRAIA DE VELHA BOIPEBA">51493 - AA PRAIA DE VELHA BOIPEBA</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">21/01/2023 15:50:51</span></td>
+<td><span title="40 - EQUIPE INADEQUADA PARA SERVICO">40 - EQUIPE INADEQUADA PARA SERVICO</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="527688 - THAIANE MATIAS SANTOS        ">527688 - THAIANE MATIAS SANTOS        </span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">20/01/2023 17:43:41</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979814132">979814132</span></td>
+<td><span title="1">1</span></td>
+<td><span title="25 - MANUTENCAO DE ESGOTO">25 - MANUTENCAO DE ESGOTO</span></td>
+<td><span title="2 - EXTRAVASAMENTO DE ESGOTO RAMAL - CI">2 - EXTRAVASAMENTO DE ESGOTO RAMAL - CI</span></td>
+<td><span title="438 - DES RED ESG E PVS C/EQUIP">438 - DES RED ESG E PVS C/EQUIP</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="309E - JOSE MOREIRA OLIVEIRA">309E - JOSE MOREIRA OLIVEIRA</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="233 - CASSANGE">233 - CASSANGE</span></td>
+<td><span title="183691 - RU IBOTIRAMA">183691 - RU IBOTIRAMA</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">21/01/2023 13:33:52</span></td>
+<td><span title="9 - NORMALIZADO">9 - NORMALIZADO</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="527688 - THAIANE MATIAS SANTOS        ">527688 - THAIANE MATIAS SANTOS        </span></td>
+<td><span title="Não">Não</span></td>
+<td><span title="Esgoto">Esgoto</span></td>
+<td><span class="">20/01/2023 17:50:49</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979814527">979814527</span></td>
+<td><span title="1">1</span></td>
+<td><span title="25 - MANUTENCAO DE ESGOTO">25 - MANUTENCAO DE ESGOTO</span></td>
+<td><span title="4 - EXTRAVASAMENTO - RETORNO IMOVEL">4 - EXTRAVASAMENTO - RETORNO IMOVEL</span></td>
+<td><span title="440 - DES RAM PREDI ESG C/EQUIP">440 - DES RAM PREDI ESG C/EQUIP</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="401-E - SIDNEY QUARESMA DOS SANTOS">401-E - SIDNEY QUARESMA DOS SANTOS</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="17 - PIATA">17 - PIATA</span></td>
+<td><span title="11408 - AV OCTAVIO MANGABEIRA">11408 - AV OCTAVIO MANGABEIRA</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">21/01/2023 09:48:07</span></td>
+<td><span title="9 - NORMALIZADO">9 - NORMALIZADO</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="527688 - THAIANE MATIAS SANTOS        ">527688 - THAIANE MATIAS SANTOS        </span></td>
+<td><span title="Não">Não</span></td>
+<td><span title="Esgoto">Esgoto</span></td>
+<td><span class="">20/01/2023 18:19:22</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979815573">979815573</span></td>
+<td><span title="1">1</span></td>
+<td><span title="25 - MANUTENCAO DE ESGOTO">25 - MANUTENCAO DE ESGOTO</span></td>
+<td><span title="4 - EXTRAVASAMENTO - RETORNO IMOVEL">4 - EXTRAVASAMENTO - RETORNO IMOVEL</span></td>
+<td><span title="440 - DES RAM PREDI ESG C/EQUIP">440 - DES RAM PREDI ESG C/EQUIP</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="309E - JOSE MOREIRA OLIVEIRA">309E - JOSE MOREIRA OLIVEIRA</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="119 - MUSSURUNGA">119 - MUSSURUNGA</span></td>
+<td><span title="83514 - RU PROF PLINIO GARCEZ DE SENA">83514 - RU PROF PLINIO GARCEZ DE SENA</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">21/01/2023 09:46:15</span></td>
+<td><span title="9 - NORMALIZADO">9 - NORMALIZADO</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="527688 - THAIANE MATIAS SANTOS        ">527688 - THAIANE MATIAS SANTOS        </span></td>
+<td><span title="Não">Não</span></td>
+<td><span title="Esgoto">Esgoto</span></td>
+<td><span class="">20/01/2023 19:55:48</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979821767">979821767</span></td>
+<td><span title="1">1</span></td>
+<td><span title="43 - VAZAMENTO DE AGUA">43 - VAZAMENTO DE AGUA</span></td>
+<td><span title="3 - VAZAMENTO NO HIDROMETRO">3 - VAZAMENTO NO HIDROMETRO</span></td>
+<td><span title="290 - VAZAMENTO NO HIDROMETRO">290 - VAZAMENTO NO HIDROMETRO</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="322A - CARLOS WILLIAN MAIA DACE">322A - CARLOS WILLIAN MAIA DACE</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="17 - PIATA">17 - PIATA</span></td>
+<td><span title="41897 - RU SANTA BARBARA">41897 - RU SANTA BARBARA</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">21/01/2023 09:56:31</span></td>
+<td><span title="5 - DUPLICIDADE DE SOLICITACAO">5 - DUPLICIDADE DE SOLICITACAO</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="203553 - DIEGO DE OLIVEIRA FONSECA    ">203553 - DIEGO DE OLIVEIRA FONSECA    </span></td>
+<td><span title="Não">Não</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">21/01/2023 08:00:25</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979823436">979823436</span></td>
+<td><span title="1">1</span></td>
+<td><span title="25 - MANUTENCAO DE ESGOTO">25 - MANUTENCAO DE ESGOTO</span></td>
+<td><span title="2 - EXTRAVASAMENTO DE ESGOTO RAMAL - CI">2 - EXTRAVASAMENTO DE ESGOTO RAMAL - CI</span></td>
+<td><span title="438 - DES RED ESG E PVS C/EQUIP">438 - DES RED ESG E PVS C/EQUIP</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title=""></span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="191 - BAIRRO DA PAZ">191 - BAIRRO DA PAZ</span></td>
+<td><span title="149159 - RU DO SOSSEGO DA PAZ">149159 - RU DO SOSSEGO DA PAZ</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">22/01/2023 10:06:41</span></td>
+<td><span title="9 - NORMALIZADO">9 - NORMALIZADO</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="527688 - THAIANE MATIAS SANTOS        ">527688 - THAIANE MATIAS SANTOS        </span></td>
+<td><span title="Não">Não</span></td>
+<td><span title="Esgoto">Esgoto</span></td>
+<td><span class="">21/01/2023 07:37:59</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979824136">979824136</span></td>
+<td><span title="1">1</span></td>
+<td><span title="43 - VAZAMENTO DE AGUA">43 - VAZAMENTO DE AGUA</span></td>
+<td><span title="3 - VAZAMENTO NO HIDROMETRO">3 - VAZAMENTO NO HIDROMETRO</span></td>
+<td><span title="290 - VAZAMENTO NO HIDROMETRO">290 - VAZAMENTO NO HIDROMETRO</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="150-A - ANDRE LUIZ CHAVES DOS SANTOS">150-A - ANDRE LUIZ CHAVES DOS SANTOS</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="141 - PITUACU">141 - PITUACU</span></td>
+<td><span title="42222 - RU GONCALVES CEZIMBRA">42222 - RU GONCALVES CEZIMBRA</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">21/01/2023 10:00:52</span></td>
+<td><span title="9 - NORMALIZADO">9 - NORMALIZADO</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="203553 - DIEGO DE OLIVEIRA FONSECA    ">203553 - DIEGO DE OLIVEIRA FONSECA    </span></td>
+<td><span title="Não">Não</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">21/01/2023 08:35:18</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979824236">979824236</span></td>
+<td><span title="1">1</span></td>
+<td><span title="43 - VAZAMENTO DE AGUA">43 - VAZAMENTO DE AGUA</span></td>
+<td><span title="1 - VAZAMENTO NA REDE">1 - VAZAMENTO NA REDE</span></td>
+<td><span title="318 - VAZ REDE PASSEIO C/PAVIM">318 - VAZ REDE PASSEIO C/PAVIM</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="204-A - ELIOSMAR JOSE SANTOS">204-A - ELIOSMAR JOSE SANTOS</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="64 - SAO CRISTOVAO">64 - SAO CRISTOVAO</span></td>
+<td><span title="76330 - RU CEL MANOEL RAMOS DEIRO">76330 - RU CEL MANOEL RAMOS DEIRO</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">21/01/2023 11:10:48</span></td>
+<td><span title="5 - DUPLICIDADE DE SOLICITACAO">5 - DUPLICIDADE DE SOLICITACAO</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="203553 - DIEGO DE OLIVEIRA FONSECA    ">203553 - DIEGO DE OLIVEIRA FONSECA    </span></td>
+<td><span title="Não">Não</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">21/01/2023 08:52:06</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979825498">979825498</span></td>
+<td><span title="1">1</span></td>
+<td><span title="25 - MANUTENCAO DE ESGOTO">25 - MANUTENCAO DE ESGOTO</span></td>
+<td><span title="4 - EXTRAVASAMENTO - RETORNO IMOVEL">4 - EXTRAVASAMENTO - RETORNO IMOVEL</span></td>
+<td><span title="440 - DES RAM PREDI ESG C/EQUIP">440 - DES RAM PREDI ESG C/EQUIP</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="321 E - JORGE DA SILVA SANTOS">321 E - JORGE DA SILVA SANTOS</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="191 - BAIRRO DA PAZ">191 - BAIRRO DA PAZ</span></td>
+<td><span title="148870 - TV N SRA DA PAZ">148870 - TV N SRA DA PAZ</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">21/01/2023 18:28:18</span></td>
+<td><span title="9 - NORMALIZADO">9 - NORMALIZADO</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="527688 - THAIANE MATIAS SANTOS        ">527688 - THAIANE MATIAS SANTOS        </span></td>
+<td><span title="Não">Não</span></td>
+<td><span title="Esgoto">Esgoto</span></td>
+<td><span class="">21/01/2023 09:54:20</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979825521">979825521</span></td>
+<td><span title="1">1</span></td>
+<td><span title="43 - VAZAMENTO DE AGUA">43 - VAZAMENTO DE AGUA</span></td>
+<td><span title="1 - VAZAMENTO NA REDE">1 - VAZAMENTO NA REDE</span></td>
+<td><span title="318 - VAZ REDE PASSEIO C/PAVIM">318 - VAZ REDE PASSEIO C/PAVIM</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="204-A - ELIOSMAR JOSE SANTOS">204-A - ELIOSMAR JOSE SANTOS</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="64 - SAO CRISTOVAO">64 - SAO CRISTOVAO</span></td>
+<td><span title="76330 - RU CEL MANOEL RAMOS DEIRO">76330 - RU CEL MANOEL RAMOS DEIRO</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">21/01/2023 11:11:52</span></td>
+<td><span title="18 - SERVICO EXECUTADO P/ OUTRA OS">18 - SERVICO EXECUTADO P/ OUTRA OS</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="203553 - DIEGO DE OLIVEIRA FONSECA    ">203553 - DIEGO DE OLIVEIRA FONSECA    </span></td>
+<td><span title="Não">Não</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">21/01/2023 10:08:51</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979825808">979825808</span></td>
+<td><span title="1">1</span></td>
+<td><span title="25 - MANUTENCAO DE ESGOTO">25 - MANUTENCAO DE ESGOTO</span></td>
+<td><span title="4 - EXTRAVASAMENTO - RETORNO IMOVEL">4 - EXTRAVASAMENTO - RETORNO IMOVEL</span></td>
+<td><span title="440 - DES RAM PREDI ESG C/EQUIP">440 - DES RAM PREDI ESG C/EQUIP</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="307-E - AILTON DOS SANTOS MACHADO">307-E - AILTON DOS SANTOS MACHADO</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="22 - JD MARGARIDAS">22 - JD MARGARIDAS</span></td>
+<td><span title="242620 - RU BOSQUE DAS FLORES">242620 - RU BOSQUE DAS FLORES</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">21/01/2023 14:57:15</span></td>
+<td><span title="18 - SERVICO EXECUTADO P/ OUTRA OS">18 - SERVICO EXECUTADO P/ OUTRA OS</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="207572 - SANDRO RAPHAEL SANTOS MOURA  ">207572 - SANDRO RAPHAEL SANTOS MOURA  </span></td>
+<td><span title="Não">Não</span></td>
+<td><span title="Esgoto">Esgoto</span></td>
+<td><span class="">21/01/2023 10:10:52</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979826517">979826517</span></td>
+<td><span title="1">1</span></td>
+<td><span title="25 - MANUTENCAO DE ESGOTO">25 - MANUTENCAO DE ESGOTO</span></td>
+<td><span title="4 - EXTRAVASAMENTO - RETORNO IMOVEL">4 - EXTRAVASAMENTO - RETORNO IMOVEL</span></td>
+<td><span title="438 - DES RED ESG E PVS C/EQUIP">438 - DES RED ESG E PVS C/EQUIP</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title=""></span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="18 - ITAPUA">18 - ITAPUA</span></td>
+<td><span title="93277 - RU JOSE ALVES">93277 - RU JOSE ALVES</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">21/01/2023 10:54:04</span></td>
+<td><span title="13 - NAO EXECUTADO">13 - NAO EXECUTADO</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="54576 - BEATRIZ JESUS DA SILVA MARTIN">54576 - BEATRIZ JESUS DA SILVA MARTIN</span></td>
+<td><span title="Sim">Sim</span></td>
+<td><span title="Esgoto">Esgoto</span></td>
+<td><span class="">21/01/2023 10:52:27</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979826871">979826871</span></td>
+<td><span title="1">1</span></td>
+<td><span title="25 - MANUTENCAO DE ESGOTO">25 - MANUTENCAO DE ESGOTO</span></td>
+<td><span title="2 - EXTRAVASAMENTO DE ESGOTO RAMAL - CI">2 - EXTRAVASAMENTO DE ESGOTO RAMAL - CI</span></td>
+<td><span title="438 - DES RED ESG E PVS C/EQUIP">438 - DES RED ESG E PVS C/EQUIP</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="321 E - JORGE DA SILVA SANTOS">321 E - JORGE DA SILVA SANTOS</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="191 - BAIRRO DA PAZ">191 - BAIRRO DA PAZ</span></td>
+<td><span title="149175 - RU PRES DUTRA">149175 - RU PRES DUTRA</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">21/01/2023 17:50:57</span></td>
+<td><span title="9 - NORMALIZADO">9 - NORMALIZADO</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="527688 - THAIANE MATIAS SANTOS        ">527688 - THAIANE MATIAS SANTOS        </span></td>
+<td><span title="Não">Não</span></td>
+<td><span title="Esgoto">Esgoto</span></td>
+<td><span class="">21/01/2023 11:08:11</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979827004">979827004</span></td>
+<td><span title="1">1</span></td>
+<td><span title="43 - VAZAMENTO DE AGUA">43 - VAZAMENTO DE AGUA</span></td>
+<td><span title="2 - VAZAMENTO NO RAMAL">2 - VAZAMENTO NO RAMAL</span></td>
+<td><span title="291 - VAZ RAMAL NA RUA COM PAVI">291 - VAZ RAMAL NA RUA COM PAVI</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="204-A - ELIOSMAR JOSE SANTOS">204-A - ELIOSMAR JOSE SANTOS</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="64 - SAO CRISTOVAO">64 - SAO CRISTOVAO</span></td>
+<td><span title="76330 - RU CEL MANOEL RAMOS DEIRO">76330 - RU CEL MANOEL RAMOS DEIRO</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">21/01/2023 15:32:36</span></td>
+<td><span title="18 - SERVICO EXECUTADO P/ OUTRA OS">18 - SERVICO EXECUTADO P/ OUTRA OS</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="203553 - DIEGO DE OLIVEIRA FONSECA    ">203553 - DIEGO DE OLIVEIRA FONSECA    </span></td>
+<td><span title="Não">Não</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">21/01/2023 11:26:09</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979827614">979827614</span></td>
+<td><span title="1">1</span></td>
+<td><span title="25 - MANUTENCAO DE ESGOTO">25 - MANUTENCAO DE ESGOTO</span></td>
+<td><span title="1 - EXTRAVASAMENTO DE ESGOTO RUA - PV">1 - EXTRAVASAMENTO DE ESGOTO RUA - PV</span></td>
+<td><span title="438 - DES RED ESG E PVS C/EQUIP">438 - DES RED ESG E PVS C/EQUIP</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="307-E - AILTON DOS SANTOS MACHADO">307-E - AILTON DOS SANTOS MACHADO</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="22 - JD MARGARIDAS">22 - JD MARGARIDAS</span></td>
+<td><span title="242620 - RU BOSQUE DAS FLORES">242620 - RU BOSQUE DAS FLORES</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">21/01/2023 14:59:24</span></td>
+<td><span title="18 - SERVICO EXECUTADO P/ OUTRA OS">18 - SERVICO EXECUTADO P/ OUTRA OS</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="207572 - SANDRO RAPHAEL SANTOS MOURA  ">207572 - SANDRO RAPHAEL SANTOS MOURA  </span></td>
+<td><span title="Não">Não</span></td>
+<td><span title="Esgoto">Esgoto</span></td>
+<td><span class="">21/01/2023 11:54:53</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979828013">979828013</span></td>
+<td><span title="1">1</span></td>
+<td><span title="25 - MANUTENCAO DE ESGOTO">25 - MANUTENCAO DE ESGOTO</span></td>
+<td><span title="2 - EXTRAVASAMENTO DE ESGOTO RAMAL - CI">2 - EXTRAVASAMENTO DE ESGOTO RAMAL - CI</span></td>
+<td><span title="438 - DES RED ESG E PVS C/EQUIP">438 - DES RED ESG E PVS C/EQUIP</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="401-E - SIDNEY QUARESMA DOS SANTOS">401-E - SIDNEY QUARESMA DOS SANTOS</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="17 - PIATA">17 - PIATA</span></td>
+<td><span title="73314 - RU DES CLOVIS LEONE">73314 - RU DES CLOVIS LEONE</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">22/01/2023 09:51:02</span></td>
+<td><span title="9 - NORMALIZADO">9 - NORMALIZADO</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="527688 - THAIANE MATIAS SANTOS        ">527688 - THAIANE MATIAS SANTOS        </span></td>
+<td><span title="Não">Não</span></td>
+<td><span title="Esgoto">Esgoto</span></td>
+<td><span class="">21/01/2023 12:16:25</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979828761">979828761</span></td>
+<td><span title="1">1</span></td>
+<td><span title="43 - VAZAMENTO DE AGUA">43 - VAZAMENTO DE AGUA</span></td>
+<td><span title="2 - VAZAMENTO NO RAMAL">2 - VAZAMENTO NO RAMAL</span></td>
+<td><span title="291 - VAZ RAMAL NA RUA COM PAVI">291 - VAZ RAMAL NA RUA COM PAVI</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="302-A - AURELITO ALVES CONCEICAO">302-A - AURELITO ALVES CONCEICAO</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="141 - PITUACU">141 - PITUACU</span></td>
+<td><span title="42354 - RU DA AMENDOEIRA DO JD IMPERIAL">42354 - RU DA AMENDOEIRA DO JD IMPERIAL</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">21/01/2023 14:03:18</span></td>
+<td><span title="14 - NADA CONSTANDO DE ANORMAL">14 - NADA CONSTANDO DE ANORMAL</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="203553 - DIEGO DE OLIVEIRA FONSECA    ">203553 - DIEGO DE OLIVEIRA FONSECA    </span></td>
+<td><span title="Não">Não</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">21/01/2023 13:22:05</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979829887">979829887</span></td>
+<td><span title="1">1</span></td>
+<td><span title="25 - MANUTENCAO DE ESGOTO">25 - MANUTENCAO DE ESGOTO</span></td>
+<td><span title="1 - EXTRAVASAMENTO DE ESGOTO RUA - PV">1 - EXTRAVASAMENTO DE ESGOTO RUA - PV</span></td>
+<td><span title="438 - DES RED ESG E PVS C/EQUIP">438 - DES RED ESG E PVS C/EQUIP</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title=""></span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="16 - BOCA DO RIO">16 - BOCA DO RIO</span></td>
+<td><span title="134836 - RU PROF PINTO DE AGUIAR">134836 - RU PROF PINTO DE AGUIAR</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">21/01/2023 15:39:28</span></td>
+<td><span title="5 - DUPLICIDADE DE SOLICITACAO">5 - DUPLICIDADE DE SOLICITACAO</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="527688 - THAIANE MATIAS SANTOS        ">527688 - THAIANE MATIAS SANTOS        </span></td>
+<td><span title="Não">Não</span></td>
+<td><span title="Esgoto">Esgoto</span></td>
+<td><span class="">21/01/2023 15:13:03</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979830204">979830204</span></td>
+<td><span title="1">1</span></td>
+<td><span title="25 - MANUTENCAO DE ESGOTO">25 - MANUTENCAO DE ESGOTO</span></td>
+<td><span title="2 - EXTRAVASAMENTO DE ESGOTO RAMAL - CI">2 - EXTRAVASAMENTO DE ESGOTO RAMAL - CI</span></td>
+<td><span title="438 - DES RED ESG E PVS C/EQUIP">438 - DES RED ESG E PVS C/EQUIP</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="401-E - SIDNEY QUARESMA DOS SANTOS">401-E - SIDNEY QUARESMA DOS SANTOS</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="117 - STELLA MARIS">117 - STELLA MARIS</span></td>
+<td><span title="72571 - RU ROMANO GALEFFI">72571 - RU ROMANO GALEFFI</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">22/01/2023 10:59:02</span></td>
+<td><span title="9 - NORMALIZADO">9 - NORMALIZADO</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="527688 - THAIANE MATIAS SANTOS        ">527688 - THAIANE MATIAS SANTOS        </span></td>
+<td><span title="Não">Não</span></td>
+<td><span title="Esgoto">Esgoto</span></td>
+<td><span class="">21/01/2023 15:48:54</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979830662">979830662</span></td>
+<td><span title="1">1</span></td>
+<td><span title="43 - VAZAMENTO DE AGUA">43 - VAZAMENTO DE AGUA</span></td>
+<td><span title="2 - VAZAMENTO NO RAMAL">2 - VAZAMENTO NO RAMAL</span></td>
+<td><span title="291 - VAZ RAMAL NA RUA COM PAVI">291 - VAZ RAMAL NA RUA COM PAVI</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="324-A - MARCONI SANTOS CAITO">324-A - MARCONI SANTOS CAITO</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="16 - BOCA DO RIO">16 - BOCA DO RIO</span></td>
+<td><span title="23120 - RU HEITOR DIAS">23120 - RU HEITOR DIAS</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">21/01/2023 18:11:53</span></td>
+<td><span title="14 - NADA CONSTANDO DE ANORMAL">14 - NADA CONSTANDO DE ANORMAL</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="527688 - THAIANE MATIAS SANTOS        ">527688 - THAIANE MATIAS SANTOS        </span></td>
+<td><span title="Não">Não</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">21/01/2023 16:50:46</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979830880">979830880</span></td>
+<td><span title="1">1</span></td>
+<td><span title="43 - VAZAMENTO DE AGUA">43 - VAZAMENTO DE AGUA</span></td>
+<td><span title="1 - VAZAMENTO NA REDE">1 - VAZAMENTO NA REDE</span></td>
+<td><span title="318 - VAZ REDE PASSEIO C/PAVIM">318 - VAZ REDE PASSEIO C/PAVIM</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="210A - JOSEILTON JESUS DOS SANTOS">210A - JOSEILTON JESUS DOS SANTOS</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="22 - JD MARGARIDAS">22 - JD MARGARIDAS</span></td>
+<td><span title="90537 - RU ARNALDO SANTOS">90537 - RU ARNALDO SANTOS</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">22/01/2023 09:31:42</span></td>
+<td><span title="5 - DUPLICIDADE DE SOLICITACAO">5 - DUPLICIDADE DE SOLICITACAO</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="207572 - SANDRO RAPHAEL SANTOS MOURA  ">207572 - SANDRO RAPHAEL SANTOS MOURA  </span></td>
+<td><span title="Não">Não</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">21/01/2023 17:24:12</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979831157">979831157</span></td>
+<td><span title="1">1</span></td>
+<td><span title="25 - MANUTENCAO DE ESGOTO">25 - MANUTENCAO DE ESGOTO</span></td>
+<td><span title="2 - EXTRAVASAMENTO DE ESGOTO RAMAL - CI">2 - EXTRAVASAMENTO DE ESGOTO RAMAL - CI</span></td>
+<td><span title="438 - DES RED ESG E PVS C/EQUIP">438 - DES RED ESG E PVS C/EQUIP</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title=""></span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="64 - SAO CRISTOVAO">64 - SAO CRISTOVAO</span></td>
+<td><span title="91266 - RU DA ADUTORA">91266 - RU DA ADUTORA</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">22/01/2023 09:05:58</span></td>
+<td><span title="9 - NORMALIZADO">9 - NORMALIZADO</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="527688 - THAIANE MATIAS SANTOS        ">527688 - THAIANE MATIAS SANTOS        </span></td>
+<td><span title="Não">Não</span></td>
+<td><span title="Esgoto">Esgoto</span></td>
+<td><span class="">21/01/2023 18:03:40</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979832323">979832323</span></td>
+<td><span title="1">1</span></td>
+<td><span title="43 - VAZAMENTO DE AGUA">43 - VAZAMENTO DE AGUA</span></td>
+<td><span title="1 - VAZAMENTO NA REDE">1 - VAZAMENTO NA REDE</span></td>
+<td><span title="318 - VAZ REDE PASSEIO C/PAVIM">318 - VAZ REDE PASSEIO C/PAVIM</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="EQ325A - JAILSON DOS SANTOS SOUSA">EQ325A - JAILSON DOS SANTOS SOUSA</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="16 - BOCA DO RIO">16 - BOCA DO RIO</span></td>
+<td><span title="23236 - RU TEN GUSTAVO DOS SANTOS">23236 - RU TEN GUSTAVO DOS SANTOS</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">22/01/2023 10:24:21</span></td>
+<td><span title="14 - NADA CONSTANDO DE ANORMAL">14 - NADA CONSTANDO DE ANORMAL</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="203553 - DIEGO DE OLIVEIRA FONSECA    ">203553 - DIEGO DE OLIVEIRA FONSECA    </span></td>
+<td><span title="Não">Não</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">22/01/2023 05:32:56</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979832768">979832768</span></td>
+<td><span title="1">1</span></td>
+<td><span title="43 - VAZAMENTO DE AGUA">43 - VAZAMENTO DE AGUA</span></td>
+<td><span title="3 - VAZAMENTO NO HIDROMETRO">3 - VAZAMENTO NO HIDROMETRO</span></td>
+<td><span title="290 - VAZAMENTO NO HIDROMETRO">290 - VAZAMENTO NO HIDROMETRO</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="103-A - ISAC BEZERRA GONZAGA">103-A - ISAC BEZERRA GONZAGA</span></td>
+<td><span title="Interna">Interna</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="16 - BOCA DO RIO">16 - BOCA DO RIO</span></td>
+<td><span title="43563 - RU SILVIA PITA LIMA">43563 - RU SILVIA PITA LIMA</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">22/01/2023 09:25:02</span></td>
+<td><span title="9 - NORMALIZADO">9 - NORMALIZADO</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="203553 - DIEGO DE OLIVEIRA FONSECA    ">203553 - DIEGO DE OLIVEIRA FONSECA    </span></td>
+<td><span title="Não">Não</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">22/01/2023 07:29:55</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979832873">979832873</span></td>
+<td><span title="1">1</span></td>
+<td><span title="43 - VAZAMENTO DE AGUA">43 - VAZAMENTO DE AGUA</span></td>
+<td><span title="1 - VAZAMENTO NA REDE">1 - VAZAMENTO NA REDE</span></td>
+<td><span title="318 - VAZ REDE PASSEIO C/PAVIM">318 - VAZ REDE PASSEIO C/PAVIM</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="304-A - EDVALDO JOSE P DOS SANTOS">304-A - EDVALDO JOSE P DOS SANTOS</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="52 - CAM DAS ARVORES">52 - CAM DAS ARVORES</span></td>
+<td><span title="35099 - RU DO TIMBO">35099 - RU DO TIMBO</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">22/01/2023 11:38:51</span></td>
+<td><span title="5 - DUPLICIDADE DE SOLICITACAO">5 - DUPLICIDADE DE SOLICITACAO</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="203553 - DIEGO DE OLIVEIRA FONSECA    ">203553 - DIEGO DE OLIVEIRA FONSECA    </span></td>
+<td><span title="Não">Não</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">22/01/2023 07:54:12</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979833037">979833037</span></td>
+<td><span title="1">1</span></td>
+<td><span title="43 - VAZAMENTO DE AGUA">43 - VAZAMENTO DE AGUA</span></td>
+<td><span title="3 - VAZAMENTO NO HIDROMETRO">3 - VAZAMENTO NO HIDROMETRO</span></td>
+<td><span title="290 - VAZAMENTO NO HIDROMETRO">290 - VAZAMENTO NO HIDROMETRO</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="103-A - ISAC BEZERRA GONZAGA">103-A - ISAC BEZERRA GONZAGA</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="15 - PITUBA">15 - PITUBA</span></td>
+<td><span title="34343 - RU DOS MACONS">34343 - RU DOS MACONS</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">22/01/2023 11:27:17</span></td>
+<td><span title="9 - NORMALIZADO">9 - NORMALIZADO</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="203553 - DIEGO DE OLIVEIRA FONSECA    ">203553 - DIEGO DE OLIVEIRA FONSECA    </span></td>
+<td><span title="Não">Não</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">22/01/2023 08:04:37</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979833043">979833043</span></td>
+<td><span title="1">1</span></td>
+<td><span title="43 - VAZAMENTO DE AGUA">43 - VAZAMENTO DE AGUA</span></td>
+<td><span title="1 - VAZAMENTO NA REDE">1 - VAZAMENTO NA REDE</span></td>
+<td><span title="318 - VAZ REDE PASSEIO C/PAVIM">318 - VAZ REDE PASSEIO C/PAVIM</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="304-A - EDVALDO JOSE P DOS SANTOS">304-A - EDVALDO JOSE P DOS SANTOS</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="52 - CAM DAS ARVORES">52 - CAM DAS ARVORES</span></td>
+<td><span title="35099 - RU DO TIMBO">35099 - RU DO TIMBO</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">22/01/2023 11:40:45</span></td>
+<td><span title="5 - DUPLICIDADE DE SOLICITACAO">5 - DUPLICIDADE DE SOLICITACAO</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="203553 - DIEGO DE OLIVEIRA FONSECA    ">203553 - DIEGO DE OLIVEIRA FONSECA    </span></td>
+<td><span title="Não">Não</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">22/01/2023 08:04:37</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979833135">979833135</span></td>
+<td><span title="1">1</span></td>
+<td><span title="43 - VAZAMENTO DE AGUA">43 - VAZAMENTO DE AGUA</span></td>
+<td><span title="3 - VAZAMENTO NO HIDROMETRO">3 - VAZAMENTO NO HIDROMETRO</span></td>
+<td><span title="290 - VAZAMENTO NO HIDROMETRO">290 - VAZAMENTO NO HIDROMETRO</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="103-A - ISAC BEZERRA GONZAGA">103-A - ISAC BEZERRA GONZAGA</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="16 - BOCA DO RIO">16 - BOCA DO RIO</span></td>
+<td><span title="23147 - RU SIMOES FILHO">23147 - RU SIMOES FILHO</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">22/01/2023 11:30:15</span></td>
+<td><span title="5 - DUPLICIDADE DE SOLICITACAO">5 - DUPLICIDADE DE SOLICITACAO</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="203553 - DIEGO DE OLIVEIRA FONSECA    ">203553 - DIEGO DE OLIVEIRA FONSECA    </span></td>
+<td><span title="Não">Não</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">22/01/2023 08:33:57</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979834166">979834166</span></td>
+<td><span title="1">1</span></td>
+<td><span title="43 - VAZAMENTO DE AGUA">43 - VAZAMENTO DE AGUA</span></td>
+<td><span title="3 - VAZAMENTO NO HIDROMETRO">3 - VAZAMENTO NO HIDROMETRO</span></td>
+<td><span title="290 - VAZAMENTO NO HIDROMETRO">290 - VAZAMENTO NO HIDROMETRO</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="225-A - EDLON DOS SANTOS GUEDES">225-A - EDLON DOS SANTOS GUEDES</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="17 - PIATA">17 - PIATA</span></td>
+<td><span title="136383 - RU VILLAGE PIATA">136383 - RU VILLAGE PIATA</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">22/01/2023 15:13:03</span></td>
+<td><span title="5 - DUPLICIDADE DE SOLICITACAO">5 - DUPLICIDADE DE SOLICITACAO</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="203553 - DIEGO DE OLIVEIRA FONSECA    ">203553 - DIEGO DE OLIVEIRA FONSECA    </span></td>
+<td><span title="Não">Não</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">22/01/2023 11:29:37</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979834173">979834173</span></td>
+<td><span title="1">1</span></td>
+<td><span title="43 - VAZAMENTO DE AGUA">43 - VAZAMENTO DE AGUA</span></td>
+<td><span title="3 - VAZAMENTO NO HIDROMETRO">3 - VAZAMENTO NO HIDROMETRO</span></td>
+<td><span title="290 - VAZAMENTO NO HIDROMETRO">290 - VAZAMENTO NO HIDROMETRO</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="119A - DELSON ALVES DA PAXAO">119A - DELSON ALVES DA PAXAO</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="18 - ITAPUA">18 - ITAPUA</span></td>
+<td><span title="185864 - AV DORIVAL CAYMMI">185864 - AV DORIVAL CAYMMI</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">22/01/2023 15:17:06</span></td>
+<td><span title="5 - DUPLICIDADE DE SOLICITACAO">5 - DUPLICIDADE DE SOLICITACAO</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="203553 - DIEGO DE OLIVEIRA FONSECA    ">203553 - DIEGO DE OLIVEIRA FONSECA    </span></td>
+<td><span title="Não">Não</span></td>
+<td><span title="Água">Água</span></td>
+<td><span class="">22/01/2023 11:29:37</span></td>
+</tr>
+<tr>
+
+<td></td>
+<td><span title="979834544">979834544</span></td>
+<td><span title="1">1</span></td>
+<td><span title="25 - MANUTENCAO DE ESGOTO">25 - MANUTENCAO DE ESGOTO</span></td>
+<td><span title="1 - EXTRAVASAMENTO DE ESGOTO RUA - PV">1 - EXTRAVASAMENTO DE ESGOTO RUA - PV</span></td>
+<td><span title="438 - DES RED ESG E PVS C/EQUIP">438 - DES RED ESG E PVS C/EQUIP</span></td>
+<td><span title="88880068 - CONSORCIO NOVA BOLANDEIRA">88880068 - CONSORCIO NOVA BOLANDEIRA</span></td>
+<td><span title="321 E - JORGE DA SILVA SANTOS">321 E - JORGE DA SILVA SANTOS</span></td>
+<td><span title="Cliente">Cliente</span></td>
+<td><span title="900 - SALVADOR UMB">900 - SALVADOR UMB</span></td>
+<td><span title="18 - ITAPUA">18 - ITAPUA</span></td>
+<td><span title="49464 - RU DO VENTO SUL">49464 - RU DO VENTO SUL</span></td>
+<td><span class=""></span></td>
+<td><span class=""></span></td>
+<td><span class="">22/01/2023 14:33:22</span></td>
+<td><span title="9 - NORMALIZADO">9 - NORMALIZADO</span></td>
+<td><span title="Concluída Não Executada">Concluída Não Executada</span></td>
+<td><span title="0">0</span></td>
+<td><span title="527688 - THAIANE MATIAS SANTOS        ">527688 - THAIANE MATIAS SANTOS        </span></td>
+<td><span title="Não">Não</span></td>
+<td><span title="Esgoto">Esgoto</span></td>
+<td><span class="">22/01/2023 12:15:13</span></td>
+</tr>
+</tbody>
+</table>
+</body></html>
